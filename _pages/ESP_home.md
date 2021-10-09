@@ -2,7 +2,8 @@
 title: Home
 permalink: /esp_home/
 ---
-#¡Bienvenid@!
+
+# ¡Bienvenid@!
 
 Aquí encontrarás información sobre todo.
 
