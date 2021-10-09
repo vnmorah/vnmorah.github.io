@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[ESPAÑOL](./_pages/ESP_home.html).	[ENGLISH](/eng_home/).
+[ESPAÑOL](./_pages/ESP_home.html).	[ENGLISH](./_pages/ENG_home/).
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
