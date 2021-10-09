@@ -3,3 +3,5 @@ description: Spanish Literature Ph.D.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+include:
+    - _pages
