@@ -1,5 +1,6 @@
 ---
 title: Home
+description: lalala
 permalink: /eng_home/
 ---
 
@@ -7,6 +8,6 @@ permalink: /eng_home/
 
 HERE FIND MORE INFO
 
-<img title="" src="images/ferns2.jpg" alt="Ferns 1.jpg" width="207" data-align="center">
+<img title="" src="/images/ferns2.jpg" alt="Ferns 1.jpg" width="207" data-align="center">
 
 
