@@ -1,7 +1,7 @@
 ---
 title: Servicios de Coaching
 description: Aprende más sobre cómo cumplir tus metas sin sacrificar tu bienestar
-permalink: /eng_coaching/
+permalink: /esp_coaching/
 ---
 
 # Coaching
