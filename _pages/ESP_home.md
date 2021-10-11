@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Valeria N. Mora-Hernández
 description: Un poco sobre mí
 permalink: /esp_home/
 ---
