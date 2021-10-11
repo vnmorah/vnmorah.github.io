@@ -1,13 +1,17 @@
 ---
 title: Home
-description: lalala
+description: An introduction
 permalink: /eng_home/
 ---
 
-#Welcome!
+# Welcome!
 
-HERE FIND MORE INFO
+Hi! 
 
-<img title="" src="/images/ferns2.jpg" alt="Ferns 1.jpg" width="207" data-align="center">
+I am a first-generation Spanish Ph.D., productivity and life coach. In my work, I am committed to help people in developing the skills that will lead them to accomplish their goals without giving up their well-being.
 
+## Learn more about...
 
+[My teaching and research](/eng_teaching/)
+
+[My coaching](/eng_coaching/)
