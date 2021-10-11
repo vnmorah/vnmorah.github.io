@@ -1,6 +1,6 @@
 ---
 title: Teaching & Research
-description: A specialist in Early Modern Spanish Literature and Spanish Language
+description: A specialist in Spanish Language and Early Modern Spanish Literature
 permalink: /eng_teaching/
 ---
 
