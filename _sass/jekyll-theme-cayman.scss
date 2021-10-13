@@ -111,7 +111,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: ![bookplant](/bookplant.jpg/){:class="img-responsive"};
+  background-image: ![bookplant](/bookplant.jpg/);
 
   @include large {
     padding: 5rem 6rem;
