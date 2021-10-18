@@ -79,6 +79,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  background-color: #F4FCEF
 }
 
 #skip-to-content {
@@ -156,8 +157,8 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   position:relative;
+  background-image: linear-gradient(to right bottom, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 5rem 6rem;
@@ -223,7 +224,6 @@ a {
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
   }
 
   @include small {

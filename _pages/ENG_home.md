@@ -1,13 +1,13 @@
 ---
-title: Home
-description: lalala
+title: Valeria N. Mora-Hernández
+description: An introduction
 permalink: /eng_home/
 ---
 
-#Welcome!
+# Hello!
 
-HERE FIND MORE INFO
+I am a first-generation Spanish Ph.D., productivity and [life coach](/eng_coaching/). In my work, I am committed to help people in developing the skills that will lead them to accomplish their goals without giving up their well-being.
 
-<img title="" src="/images/ferns2.jpg" alt="Ferns 1.jpg" width="207" data-align="center">
-
-
+## Learn more about...
+### [My teaching and research](/eng_teaching/)
+### [My coaching](/eng_coaching/)
