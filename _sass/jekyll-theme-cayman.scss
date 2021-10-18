@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import "variables";
 @import "splashpage";
+@import "socialicons";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
 @mixin large {
@@ -70,7 +71,25 @@
     background-color: lighten($header-bg-color-secondary,30%);
   }
 } 
+.page-header-content{
+  width: 100vh;
+  @include large{
+    max-width: 64rem;
+    padding: 1rem 4rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+  @include medium {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+  }
 
+  @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+
+}
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;

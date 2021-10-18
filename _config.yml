@@ -13,3 +13,15 @@ defaults:
 include:
     - _pages
     - .htaccess
+
+author:
+  name: Valeria N. Mora Hernández
+  links:
+    - label: 'Email'
+      icon: 'fas fa-fw fa-envelope-square'
+      url: 'mailto:vnmorah@gmail.com'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'twitter.com/dr_vnmorah'
+
+
