@@ -1,0 +1,27 @@
+---
+  layout: default
+---
+{% assign featurerow = page.feature_row %}
+
+<div class='feature__wrapper'>
+  {% for f in featurerow %}
+    <div class='feature__item'>
+      <div class='feature__item__teaser'>{% if f.image_path %}
+      <img src='{{ f.image_path }}'></img>
+      {% endif %}
+      </div>
+      <div class='feature__item__body'>
+      {% if f.title %}
+      <h3 class='feature__title'>{{ f.title }}</h3>
+      {% endif %}
+      {% if f.excerpt %}
+      <span class='feature__excerpt'>{{ f.excerpt | markdownify }}</span>
+      {% endif %}
+      </div>
+      {% if f.linktext %}
+        <a href="{{ f.linkurl }}" class="btn">{{ f.linktext }} </a>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+{{ content }}
