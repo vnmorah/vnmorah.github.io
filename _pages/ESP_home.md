@@ -1,6 +1,6 @@
 ---
 title: Valeria N. Mora-Hernández
-description: 'Soy [doctora en literatura](/esp_teaching/) (primera generación), [coach de vida](/esp_coaching/). Te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.'
+description: 'Soy doctora en literatura y coach de vida. Te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.'
 
 layout: featurerow
 permalink: /esp_home/
