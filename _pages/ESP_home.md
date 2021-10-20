@@ -7,12 +7,12 @@ permalink: /esp_home/
 
 feature_row:
   - title: 'Coaching'
-    linktext: 'Más información'
+    linktext: '¡Descubre!'
     excerpt: 'Creo firmemente que tu bienestar es la mejor estrategia para alcanzar el éxito en tu vida personal y profesional.' 
     linkurl: /esp_coaching/
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Enseñanza e investigación'
-    linktext: 'Aprende más'
+    linktext: 'Aprende más...'
     excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
     linkurl: /esp_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'

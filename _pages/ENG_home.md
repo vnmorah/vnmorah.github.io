@@ -12,7 +12,7 @@ feature_row:
     linkurl: /eng_coaching/
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: Teaching & Research
-    linktext: 'Learn more'
+    linktext: 'Learn more...'
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
