@@ -1,6 +1,6 @@
 ---
 title: Terms of Use and Privacy Policy
-description: 
+description: Find here important information about this website
 
 layout: featurerow
 permalink: /eng_terms/
