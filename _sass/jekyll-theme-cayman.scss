@@ -44,17 +44,38 @@
   flex-shrink: 0;
   width: calc((100% / #{$columns}) - ((#{$gutter-width} * #{$gutters}) / #{$columns}));
 }
+.feature__wrapper {
+  margin-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+  display: flex;
+  @include small{
+    flex-direction: column;
+  }
+}
 
 .feature__item {
-  @include grid-span(2);
   margin-right:$gutter-width;
-  &:nth-child(3n){
-    margin-right:0;
-  }
+  
   &:last-child{
     margin-right:0;
   }
   
+  @include large{
+    @include grid-span(2);
+    &:nth-child(2n){
+     margin-right:0;
+    }
+  }
+  @include medium{
+    @include grid-span(2);
+    &:nth-child(2n){
+     margin-right:0;
+    }
+  }
+  @include small{
+    @include grid-span(1);
+    margin-right:0;
+  }
   &__teaser{ 
     max-height: 200px;
     overflow:hidden;
@@ -72,32 +93,12 @@
   }
 } 
 .page-header-content{
-  width: 100vh;
-  @include large{
-    max-width: 64rem;
-    padding: 1rem 4rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
-  @include medium {
-    padding: 2rem 4rem;
-    font-size: 1.1rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-    font-size: 1rem;
-  }
-
+ @include large{
+   max-width: 64rem;
+   padding: 2rem 6rem;
+   margin: 0 auto;
+ }
 }
-.feature__wrapper {
-  @include clearfix();
-  margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
-  display: flex;
-  width: 100vh;
-}
-
 .head-nav-menu{
   display:flex;
   font-size: $navigation-size;
@@ -229,9 +230,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  position:relative;
   background-image: linear-gradient(to right bottom, $header-bg-color-secondary, $header-bg-color);
-
   @include large {
     padding: 5rem 6rem;
   }

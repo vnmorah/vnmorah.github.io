@@ -17,23 +17,7 @@
     <header class="page-header" role="banner">
       <div class='page-header-content'>
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description
-      | default: site.github.project_tagline | markdownify }}</h2>
-    <!---<div class="head-nav-container">
-      <div class='head-nav-center'>
-      <div class="head-nav-menu">
-        {% if page.lang == 'en' %}
-          {% for link in site.data.navigation.en_main %}
-          <a href='{{ link.url }}' class='nav-link'>{{ link.title
-              }}</a>
-          {% endfor %}
-        {% endif %}
-      </div>
-      <div class="head-nav-lang">
-        <a {% if page.lang=='en' %} class='activelang'{% endif %} >EN</a> | <a {% if page.lang=='es' %} id='activelang'{% endif %} >ES</a>
-      </div>
-      </div>
-      </div> --->
+        <h2 class="project-tagline">{{ page.description | default: site.description | markdownify }}</h2>
       </div>
     </header>
 
@@ -41,19 +25,14 @@
       {{ content }}
 
       <footer class="site-footer">
-              <p>Copyright &copy; <script type="text/javascript">
-var d = new Date()
-document.write(d.getFullYear())
-</script>
+              <p>Copyright &copy; 2021
 {{ site.author.name }}
   {% for link in site.author.links %}
           {% if link.label and link.url %}
             <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
           {% endif %}
         {% endfor %}
-
               </p>
-
       </footer>
     </main>
   </body>
