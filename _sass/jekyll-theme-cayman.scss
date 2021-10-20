@@ -52,7 +52,18 @@
     flex-direction: column;
   }
 }
-
+.page-header-links{
+  margin-top:0.5em;
+  margin-bottom:0.5em;
+  .icon{
+    width: 2rem;
+    height: 2.2rem;
+    margin-right:0.5em;
+  }
+  a{
+    color: $header-heading-color;
+  }
+}
 .feature__item {
   margin-right:$gutter-width;
   
@@ -110,7 +121,7 @@
 .head-nav-lang{
   font-size: $navigation-size;
   a{
-    color: $body-text-color;
+    color: $header-heading-color;
   }
 }
 .head-nav-container{

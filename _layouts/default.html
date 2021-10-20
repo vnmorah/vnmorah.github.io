@@ -17,6 +17,15 @@
     <header class="page-header" role="banner">
       <div class='page-header-content'>
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p class='page-header-links'>
+          {% for link in site.author.links %}
+           {% if link.label and link.url %}
+            <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+                class="icon fa-2x {{ link.icon | default: 'fas fa-link' }}"
+                aria-hidden="true"></i></a></li>
+           {% endif %}
+          {% endfor %}
+        </p>
         <h2 class="project-tagline">{{ page.description | default: site.description | markdownify }}</h2>
       </div>
     </header>
