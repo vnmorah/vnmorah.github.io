@@ -23,5 +23,8 @@ author:
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       url: 'twitter.com/dr_vnmorah'
-
+    - label: 'LinkedIn'
+      icon: 'fab fa-linkedin'
+      url: 'linkedin.com/in/vnmoraphd/'
+      
 
