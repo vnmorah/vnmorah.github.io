@@ -17,7 +17,6 @@ feature_row:
     linkurl: /eng_disclaimer/
     image_path: '/assets/images/bookflower_feature.jpg'
 
----
 
 feature_row:
   - title: Terms & Conditions
