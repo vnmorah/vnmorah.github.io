@@ -10,14 +10,15 @@ feature_row:
     linktext: 'Read'
     excerpt: TTTTTT
     linkurl: /eng_privacy/
-    icon: 'fas fa-user-lock'
+    image_path: '/assets/images/bookflower_feature.jpg'
   - title: Disclaimer
     linktext: 'Read'
     excerpt: TTTTT
     linkurl: /eng_disclaimer/
-    icon: 'fab fa-readme'
+    image_path: '/assets/images/bookflower_feature.jpg'
   - title: Terms & Conditions
     linktext: 'Read'
     excerpt: TTTTT
     linkurl: /eng_conditions/
-    icon: 'far fa-handshake'
+    image_path: '/assets/images/bookflower_feature.jpg'
+---
