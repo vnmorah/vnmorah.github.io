@@ -92,16 +92,6 @@
     overflow:hidden;
     border-radius:0.3rem;
   }
-  a.btn {
-    content: '';
-    color: $header-heading-color;
-    border-color: $header-bg-color;
-    border-style:none;
-    background-color: $header-bg-color-secondary;
-  }
-  a.btn:hover{
-    background-color: lighten($header-bg-color-secondary,30%);
-  }
 } 
 .page-header-content{
  @include large{
@@ -478,7 +468,7 @@ a {
     background-color: $hr-border-color;
     border: 0;
   }
-   a.btn {
+  a.btn {
     content: '';
     color: $header-heading-color;
     border-color: $header-bg-color;
