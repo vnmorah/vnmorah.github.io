@@ -8,16 +8,16 @@ permalink: /eng_terms/
 feature_row:
   - title: Privacy Policty
     linktext: 'Read'
-    excerpt: 
+    excerpt: TTTTTT
     linkurl: /eng_privacy/
     icon: 'fas fa-user-lock'
   - title: Disclaimer
     linktext: 'Read'
-    excerpt: 
+    excerpt: TTTTT
     linkurl: /eng_disclaimer/
     icon: 'fab fa-readme'
   - title: Terms & Conditions
     linktext: 'Read'
-    excerpt: 
+    excerpt: TTTTT
     linkurl: /eng_conditions/
     icon: 'far fa-handshake'
