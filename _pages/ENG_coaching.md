@@ -4,7 +4,7 @@ description: Learn more about how to achieve your goals without giving up your w
 permalink: /eng_coaching/
 ---
 
-<a href='https://vnmorah.youcanbook.me/' > <img align='center' src='/assets/images/Discover/ENG_Discover.png' > </a>
+<a href='https://vnmorah.youcanbook.me/' > <img align='center' src='/assets/images/Discover/ENG_Discover.png' width='50%'> </a>
 
 
 
