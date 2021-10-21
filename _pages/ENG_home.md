@@ -19,8 +19,7 @@ feature_row:
 ---
 ## About Valeria
 
-<img src='/assets/images/aboutphoto.jpg' >
-
+<img src='/assets/images/aboutphoto.jpg' width='50%' > 
 I am Valeria Mora-Hernández, Spanish Literature Ph.D. and Life Coach. My life has been shaped by my experience being a (white-passing) female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher and academic writer. 
 
 Either as a Ph.D. or as a Coach, I support you in the process of developing the skills that will help you succeed in your academic, professional, and/or personal life.
