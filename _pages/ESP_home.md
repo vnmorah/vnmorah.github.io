@@ -27,6 +27,4 @@ A través de más de 10 años en educación superior, he aprendido que preocupar
 
 Como doctora en literatura, soy especialista en la narrativa española de los siglos XVI-XVII y en la enseñanza de español como lengua extranjera. Te acompaño en el proceso de aprender el español y su literatura. En mis clases, te ayudo a desarrollar las habilidades lingüísticas y culturales que te permitirán triunfar dentro y fuera de mis clases. Al mismo tiempo, te invito a reflexionar sobre tu realidad contemporánea mientras disfrutamos la lectura de las letras hispánicas.
 
-Gracias a mi experiencia como coach y profesora, 
-
-Thanks to my experience as a coach and instructor, I am great at active listening, setting goals, finding perspective, creative awareness. Overall, I am passionate about helping other to find the light that shines within themselves. 
+Gracias a mi experiencia como coach y profesora, soy buena en escuchar activamente, definir metas, encontrar una nueva perspectiva y crear conciencia. Sobre todo, me apasiona ayudar a otros a encontrar la luz que brilla dentro de ellos.
