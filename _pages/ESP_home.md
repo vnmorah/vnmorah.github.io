@@ -19,7 +19,7 @@ feature_row:
 ---
 ## Sobre Valeria
 
-<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' > Soy Valeria Mora-Hernández, doctora en literatura española y coach. Mi vida se ha escrito con la experiencia de ser mujer, latina, primera generación migrante, la primera de mi familia en obtener un doctorado, ser profesora, investigadora y escritora académica. 
+<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > Soy Valeria Mora-Hernández, doctora en literatura española y coach. Mi vida se ha escrito con la experiencia de ser mujer, latina, primera generación migrante, la primera de mi familia en obtener un doctorado, ser profesora, investigadora y escritora académica. 
 
 Ya sea como doctora en literatura o coach de vida, te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.
 
