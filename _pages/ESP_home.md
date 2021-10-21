@@ -18,4 +18,5 @@ feature_row:
     image_path: '/assets/images/bookplant_feature.jpg'
 ---
 ## Sobre Valeria
+
 Soy doctora en literatura y coach de vida. Te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.
