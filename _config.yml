@@ -15,7 +15,7 @@ include:
     - .htaccess
 
 author:
-  name: Valeria N. Mora Hernández
+  name: Valeria Mora-Hernández
   links:
     - label: 'Email'
       icon: 'fas fa-fw fa-envelope-square'
