@@ -1,6 +1,6 @@
 ---
 title: Valeria N. Mora-Hernández
-description: 'Soy doctora en literatura y coach de vida. Te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.'
+description: 'Ph.D. & Coach'
 
 layout: featurerow
 permalink: /esp_home/
@@ -18,3 +18,4 @@ feature_row:
     image_path: '/assets/images/bookplant_feature.jpg'
 ---
 ## Sobre Valeria
+Soy doctora en literatura y coach de vida. Te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.

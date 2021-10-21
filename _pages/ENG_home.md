@@ -1,6 +1,6 @@
 ---
 title: Valeria N. Mora-Hernández
-description: 'I am a first-generation Spanish Ph.D., productivity and life coach. In my work, I am committed to I support you in the process of developing the skills that will help you succeed in your academic, professional, and/or personal life.'
+description: 'Ph.D. & Life Coach'
 
 layout: featurerow
 permalink: /eng_home/
