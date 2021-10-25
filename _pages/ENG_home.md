@@ -27,4 +27,16 @@ Through more than 10 years in Higher Education, I have learned that *well-being 
 
 As a Spanish Literature Ph.D., I am a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. I can assist you in the process of learning Spanish and its literature. Through my teaching, I support you in developing the linguistic and cultural skills that will lead you to succeed in and beyond my courses. At the same time, I invite you to reflect on your personal daily reality while we enjoy reading the works of Spanish literature.
 
-Thanks to my experience as a coach and instructor, I am great at active listening, setting goals, finding perspective and creating awareness. Overall, I am passionate about helping other to find the light that shines within themselves. 
+In my experience as a coach and instructor, I discovered that I am passionate about helping other to find the light that shines within themselves. 
+
+Some of my skills are:
+	*Building trust
+	*Creating awareness
+	*Finding and nurturing other'sstrengths
+	*Motivating groups andindividuals to complete projects
+	*Articulating overall goals &creating mini-goals for others
+	*Giving positive feedback
+	*Active listening
+	*Verbal & Writtencommunication
+	*International and multicultural awareness
+	*Bilingual Spanish & English
