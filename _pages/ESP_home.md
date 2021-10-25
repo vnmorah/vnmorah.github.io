@@ -29,14 +29,14 @@ Como doctora en literatura, soy especialista en la narrativa española de los si
 
 En mi experiencia como coach y profesora he descubierto que me apasiona ayudar a otros a encontrar la luz que brilla dentro de ellos.
 
-Algunas de mis habilidades son:
-	-Crear relaciones de confianza
-	-Crear conciencia
-	-Encontrar y nutrir las fortalezas de otros
-	-Motivar a grupos e individuos a completar proyectos
-	-Articular metas generales y crear mini-metras para otros
-	-Dar retroalimentación positiva y crítica para estimular un buen desempeño
-	-Escucha activa
-	-Comunicación verbal y escrita
-	-Sensibilización internacional y multicultural
-	-Bilingüe Español e Inglés
+> ### Algunas de mis habilidades son:
+	- Crear relaciones de confianza
+	- Crear conciencia
+	- Encontrar y nutrir las fortalezas de otros
+	- Motivar a grupos e individuos a completar proyectos
+	- Articular metas generales y crear mini-metras para otros
+	- Dar retroalimentación positiva y crítica para estimular un buen desempeño
+	- Escucha activa
+	- Comunicación verbal y escrita
+	- Sensibilización internacional y multicultural
+	- Bilingüe Español e Inglés
