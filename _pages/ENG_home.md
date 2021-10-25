@@ -16,11 +16,7 @@ feature_row:
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
-  - title: BLOG
-    linktext: 'Read more...'
-    excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
-    linkurl: /eng_teaching/
-    image_path: '/assets/images/bookplant_feature.jpg'
+ 
 ---
 ## About Valeria
 
