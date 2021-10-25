@@ -23,7 +23,7 @@ feature_row:
 
 Ya sea como doctora en literatura o coach de vida, te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.
 
-A través de más de 10 años en educación superior, he aprendido que preocuparte de tu bienestar es la mejor estrategia que puedes usar para alcanzar el éxito personal y académico. Sin embargo, lo que "bienestar" y "éxito" significan es diferente para todos! Como coach, te apoyo en el proceso de identificar qué significa bienestar y éxito para ti, dentro de tu propio y único contexto mientras trabajamos en lograr tus metas personales y profesionales.
+A través de más de 10 años en educación superior, he aprendido que *preocuparte de tu bienestar es la mejor estrategia que puedes usar para alcanzar el éxito personal y académico*. Sin embargo, lo que "bienestar" y "éxito" significan es diferente para todos! Como coach, te apoyo en el proceso de identificar qué significa bienestar y éxito para ti, dentro de tu propio y único contexto mientras trabajamos en lograr tus metas personales y profesionales.
 
 Como doctora en literatura, soy especialista en la narrativa española de los siglos XVI-XVII y en la enseñanza de español como lengua extranjera. Te acompaño en el proceso de aprender el español y su literatura. En mis clases, te ayudo a desarrollar las habilidades lingüísticas y culturales que te permitirán triunfar dentro y fuera de mis clases. Al mismo tiempo, te invito a reflexionar sobre tu realidad contemporánea mientras disfrutamos la lectura de las letras hispánicas.
 
