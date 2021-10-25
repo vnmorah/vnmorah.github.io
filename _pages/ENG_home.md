@@ -30,13 +30,13 @@ As a Spanish Literature Ph.D., I am a specialist in Early Modern Spanish narrati
 In my experience as a coach and instructor, I discovered that I am passionate about helping other to find the light that shines within themselves. 
 
 Some of my skills are:
-	*Building trust
-	*Creating awareness
-	*Finding and nurturing other'sstrengths
-	*Motivating groups andindividuals to complete projects
-	*Articulating overall goals &creating mini-goals for others
-	*Giving positive feedback
-	*Active listening
-	*Verbal & Writtencommunication
-	*International and multicultural awareness
-	*Bilingual Spanish & English
+	-Building trust
+	-Creating awareness
+	-Finding and nurturing other'sstrengths
+	-Motivating groups andindividuals to complete projects
+	-Articulating overall goals &creating mini-goals for others
+	-Giving positive feedback
+	-Active listening
+	-Verbal & Writtencommunication
+	-International and multicultural awareness
+	-Bilingual Spanish & English
