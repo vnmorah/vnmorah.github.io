@@ -34,7 +34,7 @@ En mi experiencia como coach y profesora he descubierto que me apasiona ayudar a
 	- Crear conciencia
 	- Encontrar y nutrir las fortalezas de otros
 	- Motivar a grupos e individuos a completar proyectos
-	- Articular metas generales y crear mini-metras para otros
+	- Articular metas generales y crear mini-metas para otros
 	- Dar retroalimentación positiva y crítica para estimular un buen desempeño
 	- Escucha activa
 	- Comunicación verbal y escrita
