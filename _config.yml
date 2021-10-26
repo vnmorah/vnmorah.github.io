@@ -20,13 +20,14 @@ author:
     - label: 'Email'
       icon: 'fas fa-fw fa-envelope-square'
       url: 'mailto:vnmorah@gmail.com'
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
-      url: 'https://twitter.com/vmorahphd'
     - label: 'LinkedIn'
       icon: 'fab fa-linkedin'
-      url: 'https://linkedin.com/in/vnmoraphd/'
+      url: 'https://linkedin.com/in/vmoraphd/'
     - label: 'Instagram'
       icon: 'fab fa-instagram'
       url: 'https://instagram.com/thecoachwithbooks'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'https://twitter.com/vmorahphd'
+    
 
