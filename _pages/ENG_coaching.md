@@ -18,8 +18,7 @@ Other common reasons for partnering with a coach include:
 <a href='https://vnmorah.youcanbook.me/' > <img align='center' src='/assets/images/Discover/ENG_Discover.png' width='95%'> </a>
 
 ### Valeria's Coaching
-To read more about my relevant experience and skills when coaching, click the button below:
-<a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> Resume</a>
+To read more about my relevant experience and skills when coaching, check out my <a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> Resume</a>
 
 ---
 
