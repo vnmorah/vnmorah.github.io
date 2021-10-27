@@ -32,13 +32,13 @@ In my experience as a coach and instructor, I discovered that I am passionate ab
 
 ### Some of my skills are:
 
-	- Building trust
-	- Creating awareness
-	- Finding and nurturing other'sstrengths
-	- Motivating groups andindividuals to complete projects
-	- Articulating overall goals & creating mini-goals for others
-	- Giving positive feedback
-	- Active listening
-	- Verbal & Written communication
-	- International and multicultural awareness
-	- Bilingual Spanish & English
+- Building trust
+- Creating awareness
+- Finding and nurturing other'sstrengths
+- Motivating groups andindividuals to complete projects
+- Articulating overall goals & creating mini-goals for others
+- Giving positive feedback
+- Active listening
+- Verbal & Written communication
+- International and multicultural awareness
+- Bilingual Spanish & English
