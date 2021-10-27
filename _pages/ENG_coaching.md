@@ -3,7 +3,7 @@ title: Coaching Services
 description: Learn more about how to achieve your goals without giving up your well-being
 permalink: /eng_coaching/
 ---
-### Could you benefit from coaching?
+## Could you benefit from coaching?
 
 Is there an upcoming opportunity or challenge that you want to leverage? Do you feel "stuck" on the path to achieving your goals? These are two excellent examples of topics to bring to a coaching conversation.
 Other common reasons for partnering with a coach include:
