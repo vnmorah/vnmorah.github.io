@@ -19,7 +19,7 @@ Other common reasons for partnering with a coach include:
 
 ### Valeria's Coaching
 In my experience as a coachee myself when I was at the University of Notre Dame, I realized that most of the techniques that I was learning were not available to other students in other universities or countries. Thus, I identified something I could to help less privileged communities. I began coaching undergraduate and graduate students in 2018. Many of theme were firends and colleagues who were struggling to keep up their academic performance while also coping with their mental health and trying to find a better work-balance. To better support my clients, I joined as a member  of the [International Coaching Federation](https://www.credly.com/earner/earned/badge/f7daf1ad-3ad2-4b49-b3b0-995bee037dd8) in 2021.
-To read more about my relevant experience and skills when coaching, check out my <a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> Resume</a>
+To read more about my relevant experience and skills when coaching, check out my <a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> resume</a>
 
 ---
 
