@@ -8,5 +8,4 @@ permalink: /eng_coaching/
 
 <a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> Resume</a>
 
-
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f7daf1ad-3ad2-4b49-b3b0-995bee037dd8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
