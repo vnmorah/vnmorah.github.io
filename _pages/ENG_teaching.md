@@ -26,4 +26,4 @@ My research studies violence and marginalization in Early Modern Spanish literat
 
 5. “Cuerpo, animalización y testimonio: tres entradas de lectura a la novela _Los Pichiciegos_ de Rodolfo Fogwill.” _Derecho y humanidades_, no. 23, 2014, pp.37-51.[Link](http://www.derechoyhumanidades.uchile.cl/index.php/RDH/article/view/41534)
 
-<a href='/assets/files/AcademicCV[20211026].pdf' class='btn'> Academic CV</a>
+<a href='/assets/files/AcademicCV[20211026].pdf' class='btn'> Extended Academic CV</a>
