@@ -4,7 +4,10 @@ description: Learn more about how to achieve your goals without giving up your w
 permalink: /eng_coaching/
 ---
 Do you know how people often feel not good enough, stuck, stressed, and tired all the time? 
-What I do is help them to use well-being as a strategy to achieve success. As a result, they feel empowered by having a more fulfilling routine thanks to a good work-life balance.
+
+What I do is help them to use well-being as a strategy to achieve success. 
+
+As a result, they feel empowered by having a more fulfilling routine thanks to a good work-life balance.
 
 <a href='https://discover-vmorah.youcanbook.me/' > <img align='center' src='/assets/images/Discover/ENG_Discover.png' width='95%'> </a>
 

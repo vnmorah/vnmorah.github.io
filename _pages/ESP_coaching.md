@@ -3,7 +3,11 @@ title: Servicios de Coaching
 description: Aprende más sobre cómo cumplir tus metas sin sacrificar tu bienestar
 permalink: /esp_coaching/
 ---
-¿Has notado que la mayoría de las personas se sienten 'estancadas', estresadas y cansadas todo el tiempo? Lo que yo hago es ayudarles a usar el bienestar como una estrategia para alcanzar el éxito. De esta manera, las personas se sienten empoderadas al tener una rutina enriquecedora gracias a una vida profesional y personal balanceadas. 
+¿Has notado que la mayoría de las personas se sienten 'estancadas', estresadas y cansadas todo el tiempo? 
+
+Lo que yo hago es ayudarles a usar el bienestar como una estrategia para alcanzar el éxito. 
+
+De esta manera, las personas se sienten empoderadas al tener una rutina enriquecedora gracias a una vida profesional y personal balanceadas. 
 
 <a href='https://discover-vmorah.youcanbook.me/' > <img align='center' src='/assets/images/Discover/ESP_Discover.png' width='95%' > </a>
 
