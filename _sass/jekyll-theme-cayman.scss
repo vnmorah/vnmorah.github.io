@@ -48,6 +48,7 @@
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
   display: flex;
+  flex-wrap: wrap;
   @include small{
     flex-direction: column;
   }

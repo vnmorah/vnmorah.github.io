@@ -16,7 +16,6 @@ feature_row:
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
- 
 ---
 ## About Valeria
 
@@ -28,7 +27,7 @@ Through more than 10 years in Higher Education, I have learned that *well-being 
 
 As a Spanish Literature Ph.D., I am a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. I can assist you in the process of learning Spanish and its literature. Through my teaching, I support you in developing the linguistic and cultural skills that will lead you to succeed in and beyond my courses. At the same time, I invite you to reflect on your personal daily reality while we enjoy reading the works of Spanish literature.
 
-In my experience as a coach and instructor, I discovered that I am passionate about helping other to find the light that shines within themselves. 
+In my experience as a coach and instructor, I discovered that I am passionate about helping others to find the light that shines within themselves. 
 
 ### Some of my skills are:
 
