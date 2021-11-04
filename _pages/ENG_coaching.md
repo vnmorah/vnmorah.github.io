@@ -22,7 +22,7 @@ Other common reasons for partnering with a coach include:
 - Improving business management strategies
 - Managing work/life balance
 
-### If you would like to learn more about me, you can also take a look to my
+### If you would like to learn more about me, you can also take a look at my
 <a href='/assets/files/CoachingResume[20211026].pdf' class='btn'> resume</a>
 
 ---
