@@ -11,7 +11,7 @@ feature_row:
     excerpt: 'I strongly believe that your well-being is the best strategy to successfully achieve your personal and professional goals.' 
     linkurl: /eng_coaching/
     image_path: '/assets/images/bookflower_feature.jpg'
-  - title: Teaching & Research
+  - title: 'Teaching & Research'
     linktext: 'Learn more...'
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
