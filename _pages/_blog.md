@@ -9,7 +9,7 @@ feature_row:
     linktext: 'READ'
     excerpt: 'Try reading this' 
     linkurl: /2021-11-04-testing/
-    image_path: '/assets/images/bookflower_feature.jpg'
+    image_path: '/assets/images/Discover/descubre2.jpg'
 	
 ---
 
