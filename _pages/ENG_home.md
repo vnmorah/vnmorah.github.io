@@ -6,7 +6,7 @@ layout: featurerow
 permalink: /eng_home/
 
 feature_row:
-  - title: Coaching
+  - title: 'Coaching'
     linktext: 'Discover!'
     excerpt: 'I strongly believe that your well-being is the best strategy to successfully achieve your personal and professional goals.' 
     linkurl: /eng_coaching/
@@ -16,7 +16,7 @@ feature_row:
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
-  - title: Blog Posts
+  - title: 'Blog Posts'
 	linktext: 'Read'
 	excerpt: 'This is a bilingual space where you can read more about productivity strategies, Spanish literature, and anything else I would like to share with you.' 
     linkurl: /BOTH_blog/

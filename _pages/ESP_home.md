@@ -16,11 +16,11 @@ feature_row:
     excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
     linkurl: /esp_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
-  - title: 'Enseñanza e investigación'
+  - title: 'Blog'
     linktext: 'Aprende más...'
     excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
     linkurl: /esp_teaching/
-    image_path: '/assets/images/bookplant_feature.jpg'
+    image_path: '/assets/images/blog.jpg'
 ---
 ## Sobre Valeria
 
