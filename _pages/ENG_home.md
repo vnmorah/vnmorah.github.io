@@ -18,8 +18,8 @@ feature_row:
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
   - title: 'Blog'
-	linktext: 'Read'
-	excerpt: 'This is a bilingual space where you can read more about productivity strategies, Spanish literature, and anything else I would like to share with you.' 
+    linktext: 'Read'
+    excerpt: 'This is a bilingual space where you can read more about productivity strategies, Spanish literature, and anything else I would like to share with you.' 
     linkurl: /both_blog/
     image_path: '/assets/images/blog.jpg'
 ---
