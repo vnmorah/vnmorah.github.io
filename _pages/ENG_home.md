@@ -21,7 +21,7 @@ feature_row:
 	linktext: 'Read'
 	excerpt: 'This is a bilingual space where you can read more about productivity strategies, Spanish literature, and anything else I would like to share with you.' 
     linkurl: /both_blog/
-	image_path: '/assets/images/blog.jpg'
+    image_path: '/assets/images/blog.jpg'
 ---
 
 ## About Valeria
