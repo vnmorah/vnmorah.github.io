@@ -19,7 +19,7 @@ feature_row:
   - title: 'Blog Posts'
 	linktext: 'Read'
 	excerpt: 'This is a bilingual space where you can read more about productivity strategies, Spanish literature, and anything else I would like to share with you.' 
-    linkurl: /BOTH_blog/
+    linkurl: /both_blog/
 	image_path: '/assets/images/blog.jpg'
 ---
 
