@@ -2,7 +2,7 @@ title: Valeria's Blog
 description: 'Read about time management, Spanish literature, and more'
 
 layout: featurerow
-permalink: /_blog/
+permalink: /BOTH_blog/
 
 feature_row:
   - title: TEST POST
