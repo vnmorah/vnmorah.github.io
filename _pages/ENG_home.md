@@ -16,7 +16,12 @@ feature_row:
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
     linkurl: /eng_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
+  - title: Blog Posts
+    linktext: "Read"
+	linkurl: /_blog/
+	image_path: '/assets/images/Discover/descubre2.jpg'
 ---
+
 ## About Valeria
 
 <img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > I am Valeria Mora-Hernández, Spanish Literature Ph.D. and Life Coach. My life has been shaped by my experience being a (white-passing) female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher and academic writer. 
