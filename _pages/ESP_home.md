@@ -17,9 +17,9 @@ feature_row:
     linkurl: /esp_teaching/
     image_path: '/assets/images/bookplant_feature.jpg'
   - title: 'Blog'
-    linktext: 'Aprende más...'
-    excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
-    linkurl: /esp_teaching/
+    linktext: 'Ver'
+    excerpt: 'Un espacio para compartir estrategias de organización, reflexiones sobre literatura y más' 
+    linkurl: /both_blog/
     image_path: '/assets/images/blog.jpg'
 ---
 ## Sobre Valeria
