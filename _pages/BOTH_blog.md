@@ -1,6 +1,6 @@
 ---
-title: 'Valeria's Blog'
-description: 'Read about time management, Spanish literature, and more'
+title: Blog
+description: Blog in progress
 permalink: /both_blog/
 ---
 Test
