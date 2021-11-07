@@ -15,19 +15,30 @@
   <body>
     
     <header class="page-header" role="banner">
-      <div class='page-header-content'>
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p class='page-header-links'>
-          {% for link in site.author.links %}
-           {% if link.label and link.url %}
-            <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
-                class="icon fa-2x {{ link.icon | default: 'fas fa-link' }}"
-                aria-hidden="true"></i></a></li>
-           {% endif %}
-          {% endfor %}
-        </p>
-        {% if page.description %} <h2 class="project-tagline">{{ page.description | markdownify }}</h2>{% endif %}
-      </div>
+        <div class='page-header-content'>
+          <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <p class='page-header-links'>
+            {% for link in site.author.links %}
+            {% if link.label and link.url %}
+             <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+                 class="icon fa-2x {{ link.icon | default: 'fas fa-link' }}"
+                 aria-hidden="true"></i></a></li>
+            {% endif %}
+           {% endfor %}
+         </p>
+         {% if page.description %} <h2 class="project-tagline">{{ page.description | markdownify }}</h2>{% endif %}
+         <div class='head-nav-container'>
+          {% if page.url contains 'eng' %}
+          <a href='/eng_home/'>Home</a>
+          {% elsif page.url contains 'esp' %}
+          <a href='/esp_home/'>Inicio</a>
+          {% else %}
+          <a href='/splashpage/'>Home / Inicio</a>
+          {% endif %}
+        </div>
+        </div>
+       
+
     </header>
 
     <main id="content" class="main-content" role="main">
