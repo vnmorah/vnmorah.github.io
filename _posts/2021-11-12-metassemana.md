@@ -17,7 +17,7 @@ En este post te invito a planificar entre 1 y 3 metas que se puedan cumplir dura
 Tus metas semanales pueden ser objetivos que te permitan progresar hacia un proyecto más grande y a largo plazo, por ejemplo:
 
 - *Si tienes un examen el 10 de diciembre, esta semana puedes crear un resumen del primer contenido del temario.*
-- *Si planeas tener un sitio web listo a fines de noviemebre, esta semana tu objetivo puede ser decidir cómo será el formato y qué plataforma vas a utilizar.*
+- *Si planeas tener un sitio web listo a fines de noviembre, esta semana tu objetivo puede ser decidir cómo será el formato y qué plataforma vas a utilizar.*
 
 Una vez que tengas los objetivos de esta semana definidos, divídelos en tareas más pequeñas. Estos serán tus *objetivos diarios*.
 
