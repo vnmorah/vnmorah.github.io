@@ -26,4 +26,4 @@ I can translate academic manuscripts and articles, conference presentations, and
 ---
 
 # <img align="left" src='/assets/images/cervantes.jpg' width='30%' style='margin-right:1em' > Special Services & Research
-Are you working in a project that involves the Early Modern Spanish world? I bring specialized knowledge and research skills to assist with your needs. I can help you find bibliography, create an essential reading list, fact-check your fiction manuscript, or with sensitivity reading.
+Are you working in a project that involves the Early Modern Spanish world? I bring specialized knowledge and research skills to assist with your needs. I can help you find bibliography, create an essential reading list, fact-check your fiction manuscript, or sensitivity read your work.
