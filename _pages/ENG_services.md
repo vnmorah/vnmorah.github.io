@@ -4,5 +4,11 @@ description: A specialist in Spanish Language and Early Modern Spanish Literatur
 permalink: /eng_services/
 ---
 
-## <img align="left" src='/assets/images/services/feedback.jpg' width='30%' style='margin-right:1em' > Draft Assessment 
-Do you need someone to read your draft before submitting it? Perhaps you feel stuck with your writing and would like to receive some feedback before submitting? Either is a class essay, academic article, dissertation chapter, or another text, I will read it. 
+# <img align="left" src='/assets/images/services/feedback.jpg' width='30%' style='margin-right:1em' > Draft Assessment 
+Do you need someone to read your draft before submitting it? Do you feel stuck with your writing and you need distance from your manuscript? Maybe you don't feel that is ready to for your advisor's or professor's eyes yet? I will read it and meet with you to discuss ways to improve it. 
+You will receive feedback on the strong aspects of your text's content and structure, as well as clear steps on how to get it submission-ready.
+
+### What kind of drafts do you review?
+Class essays, academic articles, dissertation proposals and chapters, cover letters, and more. 
+
+## <img align="left" src='/assets/images/services/flashcards.jpg' width='30%' style='margin-right:1em' > From Idea to Submission
