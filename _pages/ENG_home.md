@@ -13,7 +13,7 @@ feature_row:
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Academic Services'
     linktext: 'Explore'
-    excerpt: 'Get the help from a qualified Spanish teacher, writer and researcher.' 
+    excerpt: 'Improve your language skills, or get-over that writer's block. Get the help from a qualified Spanish teacher, writer and researcher.' 
     linkurl: /eng_services/
     image_path: '/assets/images/services/guidance.jpg'
   - title: 'Teaching & Research'

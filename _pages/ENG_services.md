@@ -23,7 +23,6 @@ Are you looking for a native Spanish speaker tutor with experience in teaching S
 I can translate academic manuscripts and articles, conference presentations, and other documents into English and Spanish.
 
 ---
-
 # <img align="left" src='/assets/images/cervantes.jpg' width='30%' style='margin-right:1em' > Research Assistance & Special Services
 
 Are you working in a project that involves the Early Modern Spanish world? Either is getting started with specific bibliography, fact-checking your fiction manuscript, or helping with sensitivity reading, I bring specialized knowledge and research skills to assist with your needs.
