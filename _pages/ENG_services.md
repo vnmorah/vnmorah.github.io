@@ -12,3 +12,4 @@ Class essays, academic articles, dissertation proposals and chapters, cover lett
 ---
 
 # <img align="left" src='/assets/images/services/flashcards.jpg' width='30%' style='margin-right:1em' > From Idea to Submission
+I assist you in developing a plan to write that research idea that keeps you awake at night. From discussing your idea to creating a manuscript outline to exploring appropriate time management strategies, I  
