@@ -1,0 +1,23 @@
+---
+  layout: default
+---
+<div class='feature__wrapper'>
+  {% for post in site.posts %}
+  <div class='feature__item__post feature__item' onclick="location.href='{{ post.url }}';">
+      <div class='feature__item__teaser'>{% if post.image %}
+      <img src='{{ post.image }}'></img>
+      {% endif %}
+      </div>
+      <div class='feature__item__body'>
+      {% if post.title %}
+      <h3 class='feature__title'>{{ post.title }}</h3>
+      {% endif %}
+      {% if post.description %}
+      <span class='feature__excerpt'>{{ post.description | markdownify }}</span>
+      {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+{{ content }}
+
