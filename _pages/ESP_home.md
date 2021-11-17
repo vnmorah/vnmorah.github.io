@@ -11,6 +11,11 @@ feature_row:
     excerpt: 'Creo firmemente que tu bienestar es la mejor estrategia para alcanzar el éxito en tu vida personal y profesional.' 
     linkurl: /esp_coaching/
     image_path: '/assets/images/bookflower_feature.jpg'
+  - title: 'Servicios académicos'
+    linktext: 'Explora'
+    excerpt: 'Consigue el apoyo de una especialista en enseñanza del español como lengua extranjera, escritura e investigación.' 
+    linkurl: /esp_services/
+    image_path: '/assets/images/services/tutoring.jpg'
   - title: 'Enseñanza e investigación'
     linktext: 'Aprende más...'
     excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
