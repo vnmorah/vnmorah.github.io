@@ -13,9 +13,9 @@ feature_row:
     image_path: '/assets/images/bookflower_feature.jpg'
   - title: 'Servicios académicos'
     linktext: 'Explora'
-    excerpt: 'Consigue el apoyo de una especialista en enseñanza del español como lengua extranjera, escritura e investigación.' 
+    excerpt: 'Consigue el apoyo de una experta en enseñanza de español, escritura e investigación.' 
     linkurl: /esp_services/
-    image_path: '/assets/images/services/tutoring.jpg'
+    image_path: '/assets/images/services/guidance.jpg'
   - title: 'Enseñanza e investigación'
     linktext: 'Aprende más...'
     excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
