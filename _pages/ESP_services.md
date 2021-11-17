@@ -21,6 +21,7 @@ Are you looking for a native Spanish speaker tutor with experience in teaching S
 
 # <img align="left" src='/assets/images/services/scrabbles.jpg' width='30%' style='margin-right:1em' > Translations
 I can translate academic manuscripts and articles, conference presentations, and other documents into English and Spanish.
+<br/>&nbsp;<br/>
 
 ---
 
