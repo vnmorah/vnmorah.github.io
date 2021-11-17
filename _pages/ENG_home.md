@@ -15,7 +15,7 @@ feature_row:
     linktext: 'Explore'
     excerpt: 'Get the help from a qualified Spanish teacher, writer and researcher.' 
     linkurl: /eng_services/
-    image_path: '/assets/images/services/tutoring.jpg'
+    image_path: '/assets/images/services/guidance.jpg'
   - title: 'Teaching & Research'
     linktext: 'Learn more...'
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
