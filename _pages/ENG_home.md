@@ -11,6 +11,11 @@ feature_row:
     excerpt: 'I strongly believe that your well-being is the best strategy to successfully achieve your personal and professional goals.' 
     linkurl: /eng_coaching/
     image_path: '/assets/images/bookflower_feature.jpg'
+  - title: 'Academic Services'
+    linktext: 'Explore'
+    excerpt: 'Get the help from a qualified Spanish teacher, writer and researcher.' 
+    linkurl: /eng_services/
+    image_path: '/assets/images/services/tutoring.jpg'
   - title: 'Teaching & Research'
     linktext: 'Learn more...'
     excerpt: 'A specialist in Early Modern Spanish literature and in teaching Spanish as a foreign language.'
