@@ -1,29 +1,9 @@
 ---
-title: Valeria Mora-Hernández
-description: 'Ph.D. & Coach'
+title: Sobre Valeria
+description:
+permalink: /esp_about/
 
-layout: featurerow
-
-permalink: /esp_home/
-feature_row:
-  - title: 'Coaching'
-    linktext: '¡Descubre!'
-    excerpt: 'Creo firmemente que tu bienestar es la mejor estrategia para alcanzar el éxito en tu vida personal y profesional.' 
-    linkurl: /esp_coaching/
-    image_path: '/assets/images/bookflower_feature.jpg'
-  - title: 'Enseñanza e investigación'
-    linktext: 'Aprende más...'
-    excerpt: 'Especialista en literatura española de los siglos XVI-XVII y en enseñanza del español como lengua extranjera.' 
-    linkurl: /esp_teaching/
-    image_path: '/assets/images/bookplant_feature.jpg'
-  - title: 'Blog'
-    linktext: 'Ver'
-    excerpt: 'Un espacio para compartir estrategias de organización, reflexiones sobre literatura y más' 
-    linkurl: /both_blog/
-    image_path: '/assets/images/blog.jpg'
 ---
-## Sobre Valeria
-
 <img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > Soy Valeria Mora-Hernández, doctora en literatura española y coach. Mi vida se ha escrito con la experiencia de ser mujer, latina, primera generación migrante, la primera de mi familia en obtener un doctorado, ser profesora, investigadora y escritora académica. 
 
 Ya sea como doctora en literatura o coach de vida, te apoyo en el proceso de desarrollar las habilidades que te permitirán alcanzar tus metas académicas, laborales y/o personales.
