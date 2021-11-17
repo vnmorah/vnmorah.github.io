@@ -14,7 +14,7 @@ I assist you in developing a plan to write that research idea that keeps you awa
 
 ---
 
-# <img align="left" src='/assets/images/services/tutoring.jpg' width='30%' style='margin-right:1em' > Spanish Language Tutoring
+# <img align="left" src='/assets/images/services/tutoring2.jpg' width='30%' style='margin-right:1em' > Spanish Language Tutoring
 Are you looking for a native Spanish speaker tutor with experience in teaching Spanish as a Foreign Language? I will help you develop and practice the linguistic and cultural skills to level-up your Spanish.
 
 ---
