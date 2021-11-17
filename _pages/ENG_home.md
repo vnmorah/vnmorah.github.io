@@ -26,6 +26,6 @@ feature_row:
     linktext: 'Learn'
     excerpt: 'I am passionate about finding and nurturing other people's strengths' 
     linkurl: /eng_about/
-    image_path: '/assets/images/aboutphoto.jpg'
+    image_path: '/assets/images/aboutphoto.jpg'	
 ---
 

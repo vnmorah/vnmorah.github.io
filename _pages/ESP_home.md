@@ -24,7 +24,7 @@ feature_row:
   - title: 'Sobre Valeria'
     linktext: 'Conóceme'
     excerpt: 'Me apasiona ayudar a otros a encontrar y nutrir sus fortalezas' 
-    linkurl: /both_blog/
+    linkurl: /esp_about/
     image_path: '/assets/images/aboutphoto.jpg'
 ---
 
