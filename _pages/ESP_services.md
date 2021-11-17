@@ -25,4 +25,4 @@ Puedo traducir textos académicos, presentaciones de conferencias y otros escrit
 ---
 
 # <img align="left" src='/assets/images/cervantes.jpg' width='30%' style='margin-right:1em' > Servicios especiales e investigación
-¿Trabajas en un proyecto relacionado con el mundo de la España premoderna? Ofrezco conocimiento especializado y destrezas de investigación para asistir tus necesidades. Desde perspectivas teoréticas hasta contextualización histórica, te puedo ayudar a encontrar bibliografía, crear una lista de lecturas esenciales, verificar datos en tu escritura de ficción, o a leer sensiblemente tu manuscrito (***sensitivity reading***).
+¿Trabajas en un proyecto relacionado con el mundo de la España premoderna? Ofrezco conocimiento especializado y destrezas de investigación para asistir tus necesidades. Desde perspectivas teoréticas hasta contextualización histórica, te puedo ayudar a encontrar bibliografía, crear una lista de lecturas esenciales, verificar datos en tu escritura de ficción, o a leer sensiblemente tu manuscrito (**sensitivity reading**).
