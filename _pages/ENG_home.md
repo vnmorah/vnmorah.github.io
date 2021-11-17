@@ -5,7 +5,6 @@ description: 'Ph.D. & Life Coach'
 layout: featurerow
 
 permalink: /eng_home/
-
 feature_row:
   - title: 'Coaching'
     linktext: 'Discover!'
