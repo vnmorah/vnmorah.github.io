@@ -9,6 +9,7 @@ Do you need someone to read your draft before submitting it? Do you feel stuck w
 
 ### What kind of drafts do you review?
 Class essays, academic articles, dissertation proposals and chapters, cover letters, and more. 
+
 ---
 
 # <img align="left" src='/assets/images/services/flashcards.jpg' width='30%' style='margin-right:1em' > From Idea to Submission
