@@ -1,7 +1,9 @@
 ---
 title: 'Crear metas semanales'
 description: '¿Cómo reducir la ansiedad por proyectos que se sienten gigantes?'
+image: '/assets/images/IG-Blog posts/metas.png'
 permalink: /2021-11-09-metassemana/
+
 ---
 
 ### ¿Les pasa que a veces sienten que sus proyectos son G I G A N T E S e imposibles?
