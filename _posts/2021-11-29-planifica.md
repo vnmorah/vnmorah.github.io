@@ -8,11 +8,11 @@ permalink: /2021-11-29-planifica/
 
 ### [español](#Planifica-tus-días,-recupera-el-fin-de-semana)
 
-<img align="left" src='/assets/images/calendarplan.jpg' width='30%' style='margin-right:1em'> Happy Monday! Today begins the last week of November and I know what many of you are thinking: ***"Oh no, the year is almost gone and I haven't done anything"***.
+<img align="left" src='/assets/images/challenges/ENG_planchallenge.png' width='30%' style='margin-right:1em'> Happy Monday! Today begins the last week of November and I know what many of you are thinking: ***"Oh no, the year is almost gone and I haven't done anything"***.
 
 I am also pretty sure that this is *not true*. 
 
-But I know well the overwhelm that the end of a month (and year) can produce. So let's tackle part of it this #challengeoftheweek.
+But I know well the overwhelm that the end of a month (and year) can produce. So let's tackle part of it this Challenge of the Week.
 
 I challenge you to plan your week so you can take the weekend off.
 
@@ -39,10 +39,10 @@ I challenge you to plan your week so you can take the weekend off.
 ---
 ## Planifica tus días, recupera el fin de semana
 
-Feliz lunes! Hoy es el último día de Noviembre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
+<img align="left" src='/assets/images/challenges/ESP_planchallenge.png' width='30%' style='margin-right:1em'> Feliz lunes! Hoy es el último día de Noviembre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
 
 También estoy segura de que esto no es verdad. Pero conozco bien la angustia que puede producir el fin de mes y del año. 
-But I know well the overwhelm that the end of a month (and year) can produce. Así que trabajemos en reducir la ansiedad con este #desafío de la semana.
+But I know well the overwhelm that the end of a month (and year) can produce. Así que trabajemos en reducir la ansiedad con este desafío de la semana.
 
 Te desafío a planificar la semana para que puedas descansar durante el finde.
 
