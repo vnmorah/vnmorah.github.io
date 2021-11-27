@@ -6,10 +6,10 @@ permalink: /2021-11-27-eisenhower/
 
 ---
 
-[Para español haz click aquí](##textesp)
+### [Para español haz click aquí](##textesp)
 ---
 
-Hello there! Have you noticed how sometimes we feel like everything was due yesterday, even when is not?
+Have you noticed how sometimes we feel like everything was due yesterday, even when is not?
 
 This is my modified version of Eisenhower's Matrix. I like it because it helps us to organize all our tasks by assigning them a priority.
 
