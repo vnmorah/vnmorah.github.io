@@ -1,6 +1,6 @@
 ---
 title: 'Planifica tu semana | Plan your week'
-description: 'How to achieve your goals so you can take weekends off? | ¿Cómo alcanzar tus metas duraante la semana y tener tiempo para descansar el durante el finde?'
+description: 'How to achieve your goals so you can take weekends off? ¿Cómo alcanzar tus metas duraante la semana y tener tiempo para descansar el durante el finde?'
 image: '/assets/images/calendarplan.jpg'
 permalink: /2021-11-29-planifica/
 
@@ -28,9 +28,10 @@ Grab your favorite method of organization (post-it, Google Calendar, planner, et
 
 4. Repeat this every day of this week, at the end of the beginning of your working/studying day. It will help you to be ready for any unexpected challenges and to reassess how you are managing your time.
 
-💟Don't forget to like, comment, share & save this post.
+
+
 ---
-🇪🇸 Feliz lunes! Hoy es el último día de Novieebre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
+🇪🇸 Feliz lunes! Hoy es el último día de Noviembre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
 
 También estoy segura de que esto no es verdad. Pero conozco bien la angustia que puede producir el fin de mes y del año. 
 But I know well the overwhelm that the end of a month (and year) can produce. Así que trabajemos en reducir la ansiedad con este #desafío de la semana.
