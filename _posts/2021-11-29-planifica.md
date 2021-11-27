@@ -14,7 +14,7 @@ permalink: /2021-11-29-planifica/
 I am also pretty sure that this is *not true*. 
 
 But I know well the overwhelm that the end of a month (and year) can produce. So let's tackle part of it this Challenge of the Week. ***I challenge you to plan your week so you can take the weekend off.***
-
+<br>
 1. Reflect:
 - What do you need to accomplish by the end of this week so you can take the weekend off? 
 - What are the biggest internal & external obstacles?
