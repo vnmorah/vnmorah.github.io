@@ -6,10 +6,8 @@ permalink: /2021-11-27-eisenhower/
 
 ---
 
-### [español](#-se-han-dado-cuenta-de-que-a-veces-sentimos-que-todo-era-para-ayer)
----
-
 ## Have you noticed how sometimes we feel like everything was due yesterday, even when is not? 
+### [español](#se-han-dado-cuenta-de-que-a-veces-sentimos-que-todo-era-para-ayer)
 
 When we don't assign the right priority to our tasks, we end up creating more stress in our daily lives. Certainly, cleaning the whole house might not be as urgent as submitting that paper that is due today. Is it? 
 
