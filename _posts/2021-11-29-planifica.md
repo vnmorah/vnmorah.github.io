@@ -21,7 +21,8 @@ But I know well the overwhelm that the end of a month (and year) can produce. So
 - From the obstacles that *you can control*, how could you get through?
 <br>
 2. Write down everything you need to do. 
-- This includes self-care routines, such as eating and working out. If a task seems too overwhelming split it into smaller tasks.
+- This includes self-care routines, such as eating and working out. 
+- If a task seems too overwhelming split it into smaller tasks.
 - Grab your favorite method of organization (post-it, Google Calendar, planner, etc.). Using the Eisenhower Matrix ([see my post about it](/2021-11-27-eisenhower/)), assign a priority to each task.
 - Then pick a date & time for when you will get it done.
 <br>
@@ -50,7 +51,8 @@ Pero conozco bien la angustia que puede producir el fin de mes y del año. Enton
 - Considerando los obstáculos que sí puedes controlar, ¿cómo podrías superarlos?
 <br>
 2. Escribe todo lo que necesitas hacer.
-- Este paso incluye tus trutinas de autocuidado, como comer, dormir y hacer ejercicio. Si una tarea se ve muy grande: divídela en tareas más pequeñas.
+- Este paso incluye tus trutinas de autocuidado, como comer, dormir y hacer ejercicio. 
+- Si una tarea se ve muy grande: divídela en tareas más pequeñas.
 - Usando tu método de organización favorito y la matriz de Eisenhower ([lee mi post sobre la matriz aquí](/2021-11-27-eisenhower/)), asígnale una prioridad a cada actividad y decide cuándo (día y hora) trabajarás en ella.
 <br>
 3. Sigue tu plan.
