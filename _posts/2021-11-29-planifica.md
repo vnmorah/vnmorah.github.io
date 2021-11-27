@@ -1,54 +1,51 @@
 ---
-title: 'Crear metas semanales'
-description: '¿Cómo reducir la ansiedad por proyectos que se sienten gigantes?'
-image: '/assets/images/IG-Blog posts/metas.png'
-permalink: /2021-11-09-metassemana/
+title: 'Planifica tu semana | Plan your week'
+description: 'How to achieve your goals so you can take weekends off? | ¿Cómo alcanzar tus metas duraante la semana y tener tiempo para descansar el durante el finde?'
+image: '/assets/images/calendarplan.jpg'
+permalink: /2021-11-29-planifica/
 
 ---
 
-### ¿Les pasa que a veces sienten que sus proyectos son G I G A N T E S e imposibles?
 
-¡Es normal!
+<img align="left" src='/assets/images/calendarplan.jpg' width='30%' style='margin-right:1em'> [ESP abajo](
+🇬🇧 Happy Monday! Today begins the last week of November and I know what many of you are thinking: "Oh no, the year is almost gone and I haven't done anything".
 
-<a href="https://www.instagram.com/p/CWEIi-JvIK_/"><img align="left" src='/assets/images/IG-Blog posts/metas.png' width='30%' style='margin-right:1em'></a> Si estás estudiando o has estudiado, de seguro recuerdas la angustia que produce el final de semestre: hay tanto que repasar, estudiar, leer, escribir, que uno suele sentirse muy abrumade.
+I am also pretty sure that this is not true. 
 
-En este post te invito a planificar entre 1 y 3 metas que se puedan cumplir durante esta semana. 
+But I know well the overwhelm that the end of a month (and year) can produce. So let's tackle part of it this #challengeoftheweek.
 
+I challenge you to plan your week so you can take the weekend off.
+1. Reflect:
+- What do you need to accomplish by the end of this week so you can take the weekend off? 
+- What are the biggest internal & external obstacles?
+- From the obstacles that *you can control*, how could you get through?
+
+2. Grab a pen and write down everything you need to do (including self-care routines, such as eating and working out). If a task seems too overwhelming split it into smaller tasks.
+
+Grab your favorite method of organization (post-it, Google Calendar, planner, etc.). Using the Eisenhower Matrix (see my post about it), assign a priority to each task and then pick a date & time for when you will get it done.
+
+3. Follow the plan, ask for friends and family to encourage you to keep going or celebrate your wins with you. 
+
+4. Repeat this every day of this week, at the end of the beginning of your working/studying day. It will help you to be ready for any unexpected challenges and to reassess how you are managing your time.
+
+💟Don't forget to like, comment, share & save this post.
 ---
+🇪🇸 Feliz lunes! Hoy es el último día de Novieebre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
 
-Tus metas semanales pueden ser objetivos que te permitan progresar hacia un proyecto más grande y a largo plazo, por ejemplo:
+También estoy segura de que esto no es verdad. Pero conozco bien la angustia que puede producir el fin de mes y del año. 
+But I know well the overwhelm that the end of a month (and year) can produce. Así que trabajemos en reducir la ansiedad con este #desafío de la semana.
 
-- *Si tienes un examen el 10 de diciembre, esta semana puedes crear un resumen del primer contenido del temario.*
-- *Si planeas tener un sitio web listo a fines de noviembre, esta semana tu objetivo puede ser decidir cómo será el formato y qué plataforma vas a utilizar.*
+Te desafío a planificar la semana para que puedas descansar durante el finde.
 
-Una vez que tengas los objetivos de esta semana definidos, divídelos en tareas más pequeñas. Estos serán tus *objetivos diarios*.
+1. Reflexiona:
+- ¿Qué necesitas lograr esta semana para powder descansar sin culpa?
+- ¿Cuáles son los obstáculos internos y externos más importantes?
+- Considerando los obstáculos que sí puedes controlar, ¿cómo podrías superarlos?
 
-### Metas diarias:
+2. Escribe todo lo que necesitas hacer, incluyendo tus trutinas de autocuidado, como almorzar. Si una tarea se ve muy grande: divídela en tareas más pequeñas.
 
-Para cada meta semanal, define al menos 1 tarea que debes hacer sí o sí cada día.
-Inclúyela en tu calendario, agenda, post-it, lista de cosas por hacer o tu método preferido para organizarte.
+Usando tu método de organización favorito y la Matriz de Eisenhower (ve mi post sobre esto), asígnale una prioridad a cada actividad y decide cuándo (día y hora) trabajarás en ella.
 
-- Recuerda que cada tarea debe tener un día, tiempo y duración definidos.
-- Comunica tus metas con otras personas y explícales cómo pueden apoyarte en el proceso de lograrlas.
+3. Sigue tu plan: pide a tus amigues y familares que te apoyen en tu rutina y que celebren contigo los pequeños logros de cada día. 
 
-Si ves que tu día no está saliendo como lo planeabas, pregúntante: *¿Qué es algo que puedo hacer hoy y que es alcanzable con el tiempo que tengo para poder dormir tranquila y sin culpa?*
-La respuesta (a veces te puede sorprender) es lo que necesitas hacer sí o sí. ¡Tú puedes!
-
-
-### Al final del día, evalúa y planifica mañana + 2
-
-Reflexiona cómo estuvo el día de hoy y cómo podrías mejorar mañana. Responde preguntas como:
-- ¿Usaste mucho tiempo en redes sociales?
-- ¿Pudiste concentrarte bien después de almuerzo?
-- ¿Es mejor intentar un horario diferente?
-
-Termina cada día planificando tus metas y actividades para los siguientes tres días. Por ejemplo, si es lunes, planificas martes + miércoles y jueves. Así, cada noche tendrás claro qué necesitas hacer al día siguiente y podrás modificar tu lista de tareas pendientes con mayor efectividad.
-
-Pregúntate qué obstáculos podrías tener y cómo podrías enfrentarlos si es que se presentan:
-- ¿Qué harás para evitar la procrastinación?
-- ¿Cómo puedes evitar las interrupciones o la fatiga?
-- ¿Qué puedes hacer para que el perfeccionismo sea tu aliado?
-
-No te rindas si no funciona al primer intento. Lograr encontrar una forma de organizarse requiere práctica, paciencia y, sobre todo, *flexibilidad*.
-
-Si quieres compartir tus comentarios, haz click en la imagen para llegar al post de Instagram.
+4. Repite estos pasos al final de cada día de trabajo/estudio. Te ayudará a estar preparde para los desafíos inesperados y a evaluar cómo estás manejando tu tiempo.
