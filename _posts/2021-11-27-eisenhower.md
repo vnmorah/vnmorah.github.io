@@ -1,7 +1,7 @@
 ---
 title: '¡No todo es urgente! | Not everything is urgent!'
 description: 'How to assign the right priority to your tasks. Cómo asignar la prioridad correcta a tus tareas.'
-image: '/assets/images/IG-Blog posts/ENG_eisenhower.png'
+image: '/assets/images/IG-Blog/ENG_eisenhower.png'
 permalink: /2021-11-27-eisenhower/
 
 ---
@@ -17,7 +17,7 @@ To avoid this, I use a tool that helps us to organize all our tasks by assigning
 
 This is my modified version of Eisenhower's Matrix.
 
-<img align="center" src='/assets/images/IG-Blog posts/ENG_eisenhower.png' width='50%'>
+<img align="center" src='/assets/images/IG-Blog/ENG_eisenhower.png' width='50%'>
 
 ### How to use it?
 - Write a list of all the things you want or have to do.
@@ -39,7 +39,7 @@ Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a 
 
 ℹ️Esta es mi versión modificada de la matriz de Eisenhower. Me gusta mucho porque me ayuda a organizar las tareas asignándoles una prioridad.
 
-<img align="center" src='/assets/images/IG-Blog posts/ESP_eisenhower.png' width='50%'>
+<img align="center" src='/assets/images/IG-Blog/ESP_eisenhower.png' width='50%'>
 
 ❓Cómo se usa?
 ▪ Escribe una lista de todas las cosas que quieres o tienes que hacer.
