@@ -40,6 +40,7 @@ Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a 
 ℹ️Esta es mi versión modificada de la matriz de Eisenhower. Me gusta mucho porque me ayuda a organizar las tareas asignándoles una prioridad.
 
 <img align="center" src='/assets/images/IG-Blog posts/ESP_eisenhower.png' width='50%'>
+
 ❓Cómo se usa?
 ▪ Escribe una lista de todas las cosas que quieres o tienes que hacer.
 ▪ Asígnales un cuadrante de la matriz: ¿es esa tarea urgente e importante o solo importante?
