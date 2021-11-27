@@ -1,7 +1,7 @@
 ---
 title: 'Crear metas semanales'
 description: '¿Cómo reducir la ansiedad por proyectos que se sienten gigantes?'
-image: '/assets/images/IG-Blog posts/metas.png'
+image: '/assets/images/IG-Blog/metas.png'
 permalink: /2021-11-09-metassemana/
 
 ---
@@ -10,7 +10,7 @@ permalink: /2021-11-09-metassemana/
 
 ¡Es normal!
 
-<a href="https://www.instagram.com/p/CWEIi-JvIK_/"><img align="left" src='/assets/images/IG-Blog posts/metas.png' width='30%' style='margin-right:1em'></a> Si estás estudiando o has estudiado, de seguro recuerdas la angustia que produce el final de semestre: hay tanto que repasar, estudiar, leer, escribir, que uno suele sentirse muy abrumade.
+<a href="https://www.instagram.com/p/CWEIi-JvIK_/"><img align="left" src='/assets/images/IG-Blog/metas.png' width='30%' style='margin-right:1em'></a> Si estás estudiando o has estudiado, de seguro recuerdas la angustia que produce el final de semestre: hay tanto que repasar, estudiar, leer, escribir, que uno suele sentirse muy abrumade.
 
 En este post te invito a planificar entre 1 y 3 metas que se puedan cumplir durante esta semana. 
 
