@@ -9,9 +9,16 @@ permalink: /2021-11-27-eisenhower/
 ### [Para español haz click aquí](##textesp)
 ---
 
-Have you noticed how sometimes we feel like everything was due yesterday, even when is not?
+Have you noticed how sometimes we feel like everything was due yesterday, even when is not? 
 
-This is my modified version of Eisenhower's Matrix. I like it because it helps us to organize all our tasks by assigning them a priority.
+When we don't assign the right priority to our tasks, we end up creating more stress in our daily lives. Certainly, cleaning the whole house might not be as urgent as submitting that paper that is due today. Is it? 
+
+If you are constantly thinking that everything needs to be done "right here, right now" you are creating a sense of urgency that activates your brain's amigdala and increases your levels of cortisol. You are inviting your brain to remain in a constant state of alertness, which (surprise!) it might impact your mental and sleep health at a long term.
+
+To avoid this, I use a tool that helps us to organize all our tasks by assigning them a priority.
+
+This is my modified version of Eisenhower's Matrix.
+<img align="center" src='/assets/images/IG-Blog posts/ENG_eisenhower.png' width='50%'>
 
 ## How to use it?
 - Write a list of all the things you want or have to do.
