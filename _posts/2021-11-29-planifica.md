@@ -1,6 +1,7 @@
 ---
 title: 'Planifica tu semana | Plan your week'
-description: 'How to achieve your goals so you can take weekends off? ¿Cómo alcanzar tus metas duraante la semana y tener tiempo para descansar el durante el finde?'
+description: 'How to achieve your goals so you can take weekends off? 
+			¿Cómo alcanzar tus metas durante la semana y tener tiempo para descansar en el finde?'
 image: '/assets/images/calendarplan.jpg'
 permalink: /2021-11-29-planifica/
 
@@ -38,7 +39,7 @@ But I know well the overwhelm that the end of a month (and year) can produce. So
 ---
 ## Planifica tus días, recupera el fin de semana
 
-<img align="left" src='/assets/images/challenges/ESP_planchallenge.png' width='30%' style='margin-right:1em'> Feliz lunes! Hoy es el último día de Noviembre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
+<img align="left" src='/assets/images/challenges/ESP_planchallenge.png' width='30%' style='margin-right:1em'> ¡Feliz lunes! Hoy es el último día de Noviembre y ya sé lo que muches están pensando: "Oh no, ya casi se fue el año y no he hecho nada."
 
 También estoy segura de que esto no es verdad. Pero conozco bien la angustia que puede producir el fin de mes y del año. Entonces, trabajemos en reducir la ansiedad con este desafío de la semana. 
 
