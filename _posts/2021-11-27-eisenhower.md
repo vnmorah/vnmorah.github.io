@@ -16,6 +16,7 @@ If you are constantly thinking that everything needs to be done "right here, rig
 To avoid this, I use a tool that helps us to organize all our tasks by assigning them a priority.
 
 This is my modified version of Eisenhower's Matrix.
+
 <img align="center" src='/assets/images/IG-Blog posts/ENG_eisenhower.png' width='50%'>
 
 ### How to use it?
