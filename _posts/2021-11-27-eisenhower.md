@@ -1,6 +1,6 @@
 ---
 title: '¡No todo es urgente! | Not everything is urgent!'
-description: 'How to assign the right priority to your tasks| Cómo asignar la prioridad correcta a tus tareas.'
+description: 'How to assign the right priority to your tasks. Cómo asignar la prioridad correcta a tus tareas.'
 image: '/assets/images/IG-Blog posts/ENG_eisenhower.png'
 permalink: /2021-11-27-eisenhower/
 
