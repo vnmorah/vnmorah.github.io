@@ -23,7 +23,23 @@ Ideally, you will always stay in the quadrant that says "Delay" (which is also t
 
 ### Remember: Not everything is urgent and not everything is always important.
 
+Are you ready to reduce that anxiety by using this trick to assign the right priority to your tasks?
+
 ---
 
-Are you ready to reduce that anxiety by using this trick to assign the right priority to your tasks?
-## <a name="textesp"></a> Aprende a asignarle la prioridad correcta a tus tareas
+## <a name="textesp"></a> ¿Se han dado cuenta de que a veces sentimos que todo era para ayer? 
+
+Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a aumentar el estrés y la desorganización en nuestro día a día.
+
+ℹ️Esta es mi versión modificada de la matriz de Eisenhower. Me gusta mucho porque me ayuda a organizar las tareas asignándoles una prioridad.
+
+❓Cómo se usa?
+▪ Escribe una lista de todas las cosas que quieres o tienes que hacer.
+▪ Asígnales un cuadrante de la matriz: ¿es esa tarea urgente e importante o solo importante?
+▪ Reordena las tareas en la matriz.
+▪ Toma las acciones necesarias para cada tarea: hazla, agéndala, pide ayuda o simplemente elimínala de tu lista.
+
+Idealmente, siempre estarás en el cuadrante que dice "Aplaza", que en este caso es también el equivalente de "Agendar".
+📑Recuerda: No todo es urgente y no todo es siempre importante.
+
+¿Estás list@ para reducir esa ansiedad usando este truco de asignarle la correcta prioridad a tus tareas? 
