@@ -6,7 +6,7 @@ permalink: /2021-11-27-eisenhower/
 
 ---
 
-### [español click aquí](#-se-han-dado-cuenta-de-que-a-veces-sentimos-que-todo-era-para-ayer)
+### [español](#-se-han-dado-cuenta-de-que-a-veces-sentimos-que-todo-era-para-ayer)
 ---
 
 ## Have you noticed how sometimes we feel like everything was due yesterday, even when is not? 
