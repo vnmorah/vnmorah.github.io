@@ -6,10 +6,10 @@ permalink: /2021-11-27-eisenhower/
 
 ---
 
-### [Para español haz click aquí](##textesp)
+### [español click aquí](#-se-han-dado-cuenta-de-que-a-veces-sentimos-que-todo-era-para-ayer)
 ---
 
-Have you noticed how sometimes we feel like everything was due yesterday, even when is not? 
+## Have you noticed how sometimes we feel like everything was due yesterday, even when is not? 
 
 When we don't assign the right priority to our tasks, we end up creating more stress in our daily lives. Certainly, cleaning the whole house might not be as urgent as submitting that paper that is due today. Is it? 
 
@@ -20,7 +20,7 @@ To avoid this, I use a tool that helps us to organize all our tasks by assigning
 This is my modified version of Eisenhower's Matrix.
 <img align="center" src='/assets/images/IG-Blog posts/ENG_eisenhower.png' width='50%'>
 
-## How to use it?
+### How to use it?
 - Write a list of all the things you want or have to do.
 - Assign them a quadrant: is it urgent and important or only important?
 - Write the tasks in your matrix.
@@ -34,7 +34,7 @@ Are you ready to reduce that anxiety by using this trick to assign the right pri
 
 ---
 
-## <a name="textesp"></a> ¿Se han dado cuenta de que a veces sentimos que todo era para ayer? 
+##	¿Se han dado cuenta de que a veces sentimos que todo era para ayer? 
 
 Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a aumentar el estrés y la desorganización en nuestro día a día.
 
