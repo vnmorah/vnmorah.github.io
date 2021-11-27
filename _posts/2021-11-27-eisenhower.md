@@ -17,7 +17,7 @@ To avoid this, I use a tool that helps us to organize all our tasks by assigning
 
 This is my modified version of Eisenhower's Matrix.
 
-<img align="center" src='/assets/images/IG-Blog/ENG_eisenhower.png' width='50%'>
+<img align="center" src='/assets/images/IG-Blog/ENG_eisenhower.png' width='60%'>
 
 ### How to use it?
 - Write a list of all the things you want or have to do.
@@ -27,7 +27,7 @@ This is my modified version of Eisenhower's Matrix.
 
 Ideally, you will always stay in the quadrant that says "Delay" (which is also the equivalent of "Schedule").
 
-### Remember: Not everything is urgent and not everything is always important.
+***Remember: Not everything is urgent and not everything is always important.***
 
 Are you ready to reduce that anxiety by using this trick to assign the right priority to your tasks?
 
@@ -35,19 +35,24 @@ Are you ready to reduce that anxiety by using this trick to assign the right pri
 
 ##	¿Se han dado cuenta de que a veces sentimos que todo era para ayer? 
 
-Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a aumentar el estrés y la desorganización en nuestro día a día.
+Cuando no asignamos correctamente la prioridad a nuestras tareas contribuimos a aumentar el estrés y la desorganización en nuestro día a día. De seguro, limpiar toda la casa puede que no sea tan urgente ahora como entregar ese ensayo que tiene fecha límite para hoy. ¿Cierto? 
 
-ℹ️Esta es mi versión modificada de la matriz de Eisenhower. Me gusta mucho porque me ayuda a organizar las tareas asignándoles una prioridad.
+Si estás constantemente pensanddo que todo tiene que hacerse "aquí y ahora", estás creando un sentimiento de emergencia que activa la amigdala de tu cerebro y aumenta tus niveles de cortisol. Básicamente, estás invitando a tu cerebro a permanecer en un estado constante de alerta, el cual (¡sorpresa! puede impactar a mediano y corto plazo tu salud mental y rutina del sueño.
 
-<img align="center" src='/assets/images/IG-Blog/ESP_eisenhower.png' width='50%'>
+Para evitarlo, utilizo una herramienta que nos ayuda a organizar las tareas asignándoles una prioridad.
 
-❓Cómo se usa?
-▪ Escribe una lista de todas las cosas que quieres o tienes que hacer.
-▪ Asígnales un cuadrante de la matriz: ¿es esa tarea urgente e importante o solo importante?
-▪ Reordena las tareas en la matriz.
-▪ Toma las acciones necesarias para cada tarea: hazla, agéndala, pide ayuda o simplemente elimínala de tu lista.
+Esta es mi versión modificada de la famosa matriz de Eisenhower. 
+
+<img align="center" src='/assets/images/IG-Blog/ESP_eisenhower.png' width='60%'>
+
+### ¿Cómo se usa?
+- Escribe una lista de todas las cosas que quieres o tienes que hacer.
+- Asígnales un cuadrante de la matriz: ¿es esa tarea urgente e importante o solo importante?
+- Reordena las tareas en la matriz.
+- Toma las acciones necesarias para cada tarea: hazla, agéndala, pide ayuda o simplemente elimínala de tu lista.
 
 Idealmente, siempre estarás en el cuadrante que dice "Aplaza", que en este caso es también el equivalente de "Agendar".
-📑Recuerda: No todo es urgente y no todo es siempre importante.
 
-¿Estás list@ para reducir esa ansiedad usando este truco de asignarle la correcta prioridad a tus tareas? 
+***Recuerda: No todo es urgente y no todo es siempre importante.***
+
+¿Estás list@ para reducir esa ansiedad usando este truco para asignarle la correcta prioridad a tus tareas? 
