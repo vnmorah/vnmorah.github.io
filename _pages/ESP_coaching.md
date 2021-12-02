@@ -7,7 +7,7 @@ permalink: /esp_coaching/
 <img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1em' > ¿Sabes cuáles son tus resoluciones de año nuevo? Inscripciones vía [email](contact.vmorah@gmail.com).
 <br />
 <br />
-<a href='/assets/files/newyearresolutions.pdf' class='btn'> Más información aquí </a>
+<a href='/assets/files/newyearsresolutions.pdf' class='btn'> Más información aquí </a>
 <br />
 <br />
 <br />
@@ -24,7 +24,7 @@ permalink: /esp_coaching/
 
 ---
 
-# ¿Qué es el coaching?*
+# ¿Qué es el coaching?
 
 Según la Federación Internacional de Coaching (ICF), "coaching es un proceso creativo y que estimula el pensamiento que luego te inspirará a maximizar tu potencial personal y profesional. Tu coach será tu socio en el camino hacia identificar, esclarecer y alcanzar tus metas." 
 
