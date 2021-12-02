@@ -3,10 +3,8 @@ title: Servicios de Coaching
 description: Aprende más sobre cómo cumplir tus metas sin sacrificar tu bienestar
 permalink: /esp_coaching/
 --- 
-# Ya casi llega el 2022. ¿Sabes cuáles son tus resoluciones de año nuevo?
-
-<object data="/assets/files/newyearresolutions.pdf" width="1000" height="1000" type="application/pdf"></object>
-
+# Ya casi llega el 2022. 
+<a href='/assets/files/newyearresolutions.pdf> <img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1em' > </a> ¿Sabes cuáles son tus resoluciones de año nuevo? Haz click en la imagen para obtener más información. Inscripciones vía [email](contact.vmorah@gmail.com).
 
 ---
 
