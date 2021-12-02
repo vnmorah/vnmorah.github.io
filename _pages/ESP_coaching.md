@@ -8,10 +8,9 @@ permalink: /esp_coaching/
 
 ---
 
-# ¿Qué es el coaching?
+# ¿Qué es el coaching?*
 
-<a href='https://discover-vmorah.youcanbook.me/' > <img align='left' src='/assets/images/Discover/ESP_Discover.png' width='50%' style='margin-right:1em' > </a> El coaching es un proceso creativo y que estimula el pensamiento que luego te inspirará a maximizar tu potencial personal y profesional. Tu coach será tu socio en el
-camino hacia identificar, esclarecer y alcanzar tus metas. 
+<a href='https://discover-vmorah.youcanbook.me/' > <img align='left' src='/assets/images/Discover/ESP_Discover.png' width='50%' style='margin-right:1em' > </a> Según la Federación Internacional de Coaching (ICF), "coaching es un proceso creativo y que estimula el pensamiento que luego te inspirará a maximizar tu potencial personal y profesional. Tu coach será tu socio en el camino hacia identificar, esclarecer y alcanzar tus metas." 
 
 ## ¿Cuál es la diferencia entre coaching, psicoterapia y consultoría?
 
