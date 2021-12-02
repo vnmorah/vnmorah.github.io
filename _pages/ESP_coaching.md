@@ -7,7 +7,6 @@ permalink: /esp_coaching/
 <img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1em' > ¿Sabes cuáles son tus resoluciones de año nuevo? Inscripciones vía [email](contact.vmorah@gmail.com).
 <br />
 <br />
-<br />
 <a href='/assets/files/newyearresolutions.pdf' class='btn'> Más información aquí </a>
 <br />
 <br />
@@ -15,6 +14,14 @@ permalink: /esp_coaching/
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ---
 
 # ¿Qué es el coaching?*
