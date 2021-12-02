@@ -11,7 +11,12 @@ permalink: /esp_coaching/
 
 # ¿Qué es el coaching?
 
-<a href='https://discover-vmorah.youcanbook.me/' > <img align='left' src='/assets/images/Discover/ESP_Discover.png' width='50%' > </a> El coaching profesional se centra en fijar metas, generar resultados y manejar el cambio personal. Otras profesiones de servicio, como la consultoría y la psicoterapia, se basan en la sabiduría y experiencia del profesional. 
+<a href='https://discover-vmorah.youcanbook.me/' > <img align='left' src='/assets/images/Discover/ESP_Discover.png' width='50%' > </a> El coaching es un proceso creativo y que estimula el pensamiento que luego te inspirará a maximizar tu potencial personal y profesional. Tu coach será tu socio en el
+camino hacia identificar, esclarecer y alcanzar tus metas. 
+
+## ¿Cuál es la diferencia entre coaching, psicoterapia y consultoría?
+
+El coaching profesional se centra en fijar metas, generar resultados y manejar el cambio personal. Otras profesiones de servicio, como la consultoría y la psicoterapia, se basan en la sabiduría y experiencia del profesional. 
 
 En el coaching, *tú, como cliente, eres el experto*. 
 
