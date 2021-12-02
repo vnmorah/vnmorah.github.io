@@ -4,7 +4,7 @@ description: Aprende más sobre cómo cumplir tus metas sin sacrificar tu bienes
 permalink: /esp_coaching/
 --- 
 # Ya casi llega el 2022. 
-<img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1em' > ¿Sabes cuáles son tus resoluciones de año nuevo? <a href='/assets/files//newyearresolutions.pdf' class='btn'> Más información aquí </a>
+<img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1em' > ¿Sabes cuáles son tus resoluciones de año nuevo? <a href='/assets/files/newyearresolutions.pdf' class='btn'> Más información aquí </a>
 Inscripciones vía [email](contact.vmorah@gmail.com).
 
 ---
