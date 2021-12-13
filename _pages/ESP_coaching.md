@@ -11,8 +11,6 @@ permalink: /esp_coaching/
 - Tendrás el apoyo de una coach miembro de la Federación Internacional de Coaching (ICF).
 <br />
 Inscripciones vía [email](contact.vmorah@gmail.com).
-
-<br />
 <br />
 <a href='/assets/files/newyearsresolutions.pdf' class='btn'> Más información aquí </a>
 <br />
