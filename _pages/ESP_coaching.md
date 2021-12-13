@@ -5,10 +5,12 @@ permalink: /esp_coaching/
 --- 
 # Ya casi llega el 2022. 
 <img align='left' src='/assets/images/2022NYworkshop/ESP_ Template DARK (3).png' width='50%' style='margin-right:1.5em' > ¿Sabes cuáles son tus resoluciones de año nuevo? Te invito a participar de este taller, porque:
+
 -️ Usaremos las herramientas del coaching grupal para reflexionar y crear metas realistas que se ajusten a tu realidad personal.
 - En comunidad podemos recibir distintas perspectivas y más ideas. ¡Dos cabezas piensan mejor que una!
 - Tendrás el apoyo de una coach miembro de la Federación Internacional de Coaching (ICF).
 Inscripciones vía [email](contact.vmorah@gmail.com).
+
 <br />
 <br />
 <a href='/assets/files/newyearsresolutions.pdf' class='btn'> Más información aquí </a>
