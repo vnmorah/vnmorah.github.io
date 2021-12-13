@@ -21,13 +21,6 @@ Inscripciones vía [email](contact.vmorah@gmail.com).
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
