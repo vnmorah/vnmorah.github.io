@@ -1,6 +1,6 @@
 ---
 title: Valeria Mora-Hernández
-description: 'Ph.D. & Life Coach'
+description: 'Ph.D. & Coach'
 
 layout: featurerow
 
