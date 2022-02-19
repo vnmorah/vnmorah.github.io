@@ -1,0 +1,1 @@
+docker run --rm -v "C:/Users/vnmor/Documents/WEBSITE VNMORAH/:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll bash -c "jekyll serve --force_polling --livereload"
