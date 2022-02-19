@@ -1,7 +1,6 @@
 ---
 layout: splashpage
-description: Ph.D., Coach
-'Courage is found in unlikely places 
+description: 'Courage is found in unlikely places 
 								(J.R.R. Tolkien)'
 buttons:
   - url: "/esp_home/"
