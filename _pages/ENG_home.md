@@ -31,22 +31,20 @@ feature_row:
 
 ## About Valeria
 
-<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > I am Valeria Mora-Hernández, Spanish Literature Ph.D. and Life Coach. My life has been shaped by my experience being a (white-passing) female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher and academic writer. 
+<img align="left" src='/assets/images/aboutphoto.jpg' width='30%' style='margin-right:1em' > Dr. Mora-Hernández is a member of the International Coaching Federation who has embraced pioneering as her signature strength. Her life has been shaped by her experience being a female of color together with being a first-generation immigrant, first-generation Ph.D., college instructor, researcher, and academic writer. She also is the first one in her big family to have a multicultural household. 
 
-Either as a Ph.D. or as a Coach, I support you in the process of developing the skills that will help you succeed in your academic, professional, and/or personal life.
+Originally from Chile, Dr. Mora-Hernández was the first one of the Mora-Hernández family to pursue a college degree. After obtaining both a B.A. and an M.A. at the Pontificia Universidad Católica de Chile, she became the first one to leave her home country to pursue a doctorate degree. After graduating from the Ph.D. in Spanish at the University of Notre Dame, Dr. Mora-Hernández migrated again to live for a short period of time in Vienna, Austria, and then returned to the US, where she is currently living in Oakland, California.
 
-Through more than 10 years in Higher Education, I have learned that *well-being is the best strategy you can use to achieve personal and professional success*. However, well-being and success look different for everyone! As a coach, I support you in the process of identifying how do well-being and success look for you within your unique context. Together, we work towards accomplishing your personal and professional goals. 
+In her personal and professional journey, Dr. Mora-Hernández has learned that being the first one often feels lonely. The cultural barriers, stereotype threats, and challenges that come with shaking up “the way things have always been done” frequently represent a threat to our motivation, confidence, and academic development. This lesson inspired her to create an inclusive and culturally aware coaching practice to support other pioneers in their professional journeys.
 
-As a Spanish Literature Ph.D., I am a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. I can assist you in the process of learning Spanish and its literature. Through my teaching, I support you in developing the linguistic and cultural skills that will lead you to succeed in and beyond my courses. At the same time, I invite you to reflect on your personal daily reality while we enjoy reading the works of Spanish literature.
+Additionally, as a Spanish Literature Ph.D., Dr. Mora-Hernández is also a specialist in Early Modern Spanish narrative as well as in teaching Spanish as a foreign language. During the last years, her academic research has focused on studying the connections between violence, gender, identity, marginalization, and disability in the context of Early Modern Spanish literature. She examines the causes and effects of violence among characters from canonical texts, such as the ones represented in the works of authors such as Quevedo, Cervantes y Zayas.
 
-In my experience as a coach and instructor, I discovered that I am passionate about helping others to find the light that shines within themselves. 
-
-### Some of my skills are:
+### Some of her skills are:
 
 - Building trust
 - Creating awareness
 - Finding and nurturing other people's strengths
-- Motivating groups andindividuals to complete projects
+- Motivating groups and individuals to complete projects
 - Articulating overall goals & creating mini-goals for others
 - Giving positive feedback
 - Active listening
