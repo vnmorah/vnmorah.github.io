@@ -38,7 +38,7 @@ If you would like more support to achieve your goals, I invite you to *schedule 
 
 ---
 
-# Haz lo que realmente importa
+## Haz lo que realmente importa
 
 Si temes los lunes y sientes que tus días simplemente pasan sin que avances, esta guía descargable y gratuita es para ti.
 
