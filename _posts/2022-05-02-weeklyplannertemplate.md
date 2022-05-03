@@ -1,5 +1,5 @@
 ---
-title: 'Doing what really matters | Haz lo que realmente importa'
+title: 'Doing what really matters|Haz lo que realmente importa'
 description: 'Plan your whole week in 15 min or less 
 			Planifica tu semana en 15 minutos o menos'
 			
@@ -38,7 +38,7 @@ If you would like more support to achieve your goals, I invite you to *schedule 
 
 ---
 
-#Haz lo que realmente importa
+# Haz lo que realmente importa
 
 Si temes los lunes y sientes que tus días simplemente pasan sin que avances, esta guía descargable y gratuita es para ti.
 
