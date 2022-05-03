@@ -8,7 +8,7 @@ permalink: /2021-11-29-weeklyplannertemplate/
 
 ---
 
-### [Lee en español aquí](#Planifica-tus-días,-recupera-el-fin-de-semana)
+### [Lee en español aquí](#Haz-lo-que-realmente-importa)
 
 <img align="left" src='/assets/images/plantime.jpg' width='30%' style='margin-right:1em'> If you dread Mondays and feel like your days are just passing by, this FREE printable template is for you.
 
@@ -32,11 +32,13 @@ Using it can help you to:
 - Feel more in control of your schedule
 - Learn to prioritize the items on your to-do list so you can feel more accomplished every day. 
 
-*[To download the template, click here]('/assets/files/ENG_weeklyplanner.pdf')*
+*[To download the template, click here]('http://vmorah.com/assets/files/ENG_weeklyplanner.pdf')*
 
 If you would like more support to achieve your goals, I invite you to *schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah) *
 
 ---
+
+#Haz lo que realmente importa
 
 Si temes los lunes y sientes que tus días simplemente pasan sin que avances, esta guía descargable y gratuita es para ti.
 
@@ -60,6 +62,6 @@ Usarlo puede ayudarte a:
 - Sentirte más en control de tu horario
 - Aprender a priorizar las actividades de tu lista de tareas pendientes para que puedas sentirte más realizado todos los días.
 
-*[Para descargar la plantilla, haz clic aquí](('/assets/files/ESP_weeklyplanner.pdf')*
+*[Para descargar la plantilla, haz clic aquí](('http://vmorah.com/assets/files/ESP_weeklyplanner.pdf')*
 
 Si te gustaría más ayuda para alcanzar tus metas, *te invito a una [sesión introductoria gratis conmigo. Para agendar, haz click aquí](https://calendly.com/vmorah) *
