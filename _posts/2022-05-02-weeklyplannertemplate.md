@@ -32,7 +32,7 @@ Using it can help you to:
 - Feel more in control of your schedule
 - Learn to prioritize the items on your to-do list so you can feel more accomplished every day. 
 
-*[To download the template, click here]('http://vmorah.com/assets/files/ENG_weeklyplanner.pdf')*
+*[To download the template, click here]('src=assets/files/ENG_weeklyplanner.pdf')*
 
 If you would like more support to achieve your goals, I invite you to *schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah) *
 
