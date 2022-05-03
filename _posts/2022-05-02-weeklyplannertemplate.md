@@ -34,7 +34,7 @@ Using it can help you to:
 
 *[To download the template, click here]('src=assets/files/ENG_weeklyplanner.pdf')*
 
-If you would like more support to achieve your goals, I invite you to *schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah) *
+If you would like more support to achieve your goals, I invite you to schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah)
 
 ---
 
@@ -62,6 +62,6 @@ Usarlo puede ayudarte a:
 - Sentirte más en control de tu horario
 - Aprender a priorizar las actividades de tu lista de tareas pendientes para que puedas sentirte más realizado todos los días.
 
-*[Para descargar la plantilla, haz clic aquí]('http://vmorah.com/assets/files/ESP_weeklyplanner.pdf')*
+## *[Para descargar la plantilla, haz clic aquí]('http://vmorah.com/assets/files/ESP_weeklyplanner.pdf')*
 
-Si te gustaría más ayuda para alcanzar tus metas, *te invito a una [sesión introductoria gratis conmigo. Para agendar, haz click aquí](https://calendly.com/vmorah) *
+Si te gustaría más ayuda para alcanzar tus metas, te invito a una [sesión introductoria gratis conmigo. Para agendar, haz click aquí](https://calendly.com/vmorah)
