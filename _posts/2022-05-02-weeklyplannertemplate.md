@@ -2,7 +2,6 @@
 title: 'Doing what really matters|Haz lo que realmente importa'
 description: 'Plan your whole week in 15 min or less 
 			Planifica tu semana en 15 minutos o menos'
-			
 image: '/assets/images/plantime.jpg'
 permalink: /2022-05-02-weeklyplannertemplate/
 
