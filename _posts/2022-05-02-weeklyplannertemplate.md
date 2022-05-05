@@ -9,7 +9,7 @@ permalink: /2022-05-02-weeklyplannertemplate/
 
 ### [Lee en español abajo](#haz-lo-que-realmente-importa)
 
-<img align="left" src='/assets/images/plantime.jpg' width='30%' style='margin-right:1em'> If you dread Mondays and feel like your days are just passing by, this FREE printable template is for you.
+<img align="left" src='/assets/images/plantime.jpg' width='30%' style='margin-right:1em'> If you dread Mondays and feel like your days are just passing by, **this FREE printable template** is for you.
 
 My clients often tell me they don't have time to plan their week or that it takes them too much time to do it. Nevertheless, they still dream about getting organized, feeling in control of their schedule and being on top of their ever growing to-do list. Sounds familiar?
 
