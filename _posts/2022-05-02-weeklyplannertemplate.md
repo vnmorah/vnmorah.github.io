@@ -1,6 +1,6 @@
 ---
 title: 'Doing what really matters|Haz lo que realmente importa'
-description: 'Plan your whole week in 15 min or less §
+description: 'Plan your whole week in 15 min or less 
 			Planifica tu semana en 15 minutos o menos'
 image: '/assets/images/plantime.jpg'
 permalink: /2022-05-02-weeklyplannertemplate/
@@ -17,7 +17,7 @@ Many times, they get a planner or learn to use a digital system such as Google C
 
 Others might actually get started, but often feel unsatisfied because their organization attempts not only aren't functional, but they are not even close to resemble the beautiful planners seen in their Pinterest or Instagram feeds. 
 
-The truth is that changing habits in general is very hard. And since our time management habits can impact all aspects in our life, it is very possible that we experiment resistance to make changes in this sphere.
+The truth is that **changing habits in general is very hard. And since our time management habits can impact all aspects in our life, it is very possible that we experiment resistance to make changes** in this sphere.
 
 I get it. It might not be pleasant to sit in front of your long to-do list, especially not after you have been procrastinating in many of them. 
 
@@ -31,7 +31,7 @@ Using it can help you to:
 - Feel more in control of your schedule
 - Learn to prioritize the items on your to-do list so you can feel more accomplished every day. 
 
-*[To download the template, click here](/assets/files/ENG_weeklyplanner.pdf)*
+**[To download the template, click here](/assets/files/ENG_weeklyplanner.pdf)**
 
 If you would like more support to achieve your goals, I invite you to schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah)
 
@@ -39,7 +39,7 @@ If you would like more support to achieve your goals, I invite you to schedule a
 
 ## Haz lo que realmente importa
 
-Si temes los lunes y sientes que tus días simplemente pasan sin que avances, esta guía descargable y gratuita es para ti.
+Si temes los lunes y sientes que tus días simplemente pasan sin que avances, esta **guía descargable y gratuita es para ti**.
 
 Mis clientes a menudo me dicen que no tienen tiempo para planificar su semana o que les toma mucho tiempo hacerlo. Sin embargo, todavía sueñan con organizarse, sentir que tienen el control de su agenda y estar al tanto de su lista de cosas por hacer. ¿Suena familiar?
 
@@ -47,7 +47,7 @@ Muchas veces obtienen un planificador o aprenden a usar un sistema digital como 
 
 Otros pueden comenzar, pero a menudo se sienten insatisfechos porque sus intentos de organización no solo no son funcionales, sino que ni siquiera se parecen a las hermosas páginas de planners que se ven en sus feeds de Pinterest o Instagram.
 
-La verdad es que cambiar hábitos en general es muy difícil. Y dado que nuestros hábitos de administración del tiempo suelen impactar todos los aspectos de nuestra vida, es muy posible que experimentemos resistencia a realizar cambios en la manera de organizarnos.
+La verdad es que **cambiar hábitos en general es muy difícil. Y dado que nuestros hábitos de administración del tiempo suelen impactar todos los aspectos de nuestra vida, es muy posible que experimentemos resistencia a realizar cambios** en la manera de organizarnos.
 
 Lo entiendo. Puede que no sea agradable sentarte frente a tu larga lista de tareas pendientes, especialmente después de haber estado por días postergando muchas de ellas.
 
@@ -61,6 +61,6 @@ Usarlo puede ayudarte a:
 - Sentirte más en control de tu horario
 - Aprender a priorizar las actividades de tu lista de tareas pendientes para que puedas sentirte más realizado todos los días.
 
-*[Para descargar la plantilla, haz clic aquí](/assets/files/ESP_weeklyplanner.pdf)*
+**[Para descargar la plantilla, haz clic aquí](/assets/files/ESP_weeklyplanner.pdf)**
 
 Si te gustaría más ayuda para alcanzar tus metas, te invito a una [sesión introductoria gratis conmigo. Para agendar, haz click aquí](https://calendly.com/vmorah)
