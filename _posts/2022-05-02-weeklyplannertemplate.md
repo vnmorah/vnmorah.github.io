@@ -7,7 +7,7 @@ permalink: /2022-05-02-weeklyplannertemplate/
 
 ---
 
-### [Lee en español abajo](##Haz-lo-que-realmente-importa)
+### [Lee en español abajo](#Haz-lo-que-realmente-importa)
 
 <img align="left" src='/assets/images/plantime.jpg' width='30%' style='margin-right:1em'> If you dread Mondays and feel like your days are just passing by, this FREE printable template is for you.
 
