@@ -1,6 +1,6 @@
 ---
 title: 'Doing what really matters|Haz lo que realmente importa'
-description: 'Plan your whole week in 15 min or less 
+description: 'Plan your whole week in 15 min or less | 
 			Planifica tu semana en 15 minutos o menos'
 image: '/assets/images/plantime.jpg'
 permalink: /2022-05-02-weeklyplannertemplate/
@@ -31,7 +31,7 @@ Using it can help you to:
 - Feel more in control of your schedule
 - Learn to prioritize the items on your to-do list so you can feel more accomplished every day. 
 
-*[To download the template, click here]('src=assets/files/ENG_weeklyplanner.pdf')*
+*[To download the template, click here](assets/files/ENG_weeklyplanner.pdf)*
 
 If you would like more support to achieve your goals, I invite you to schedule a [free introductory session with me. To book, click here](https://calendly.com/vmorah)
 
@@ -61,6 +61,6 @@ Usarlo puede ayudarte a:
 - Sentirte más en control de tu horario
 - Aprender a priorizar las actividades de tu lista de tareas pendientes para que puedas sentirte más realizado todos los días.
 
-## *[Para descargar la plantilla, haz clic aquí]('http://vmorah.com/assets/files/ESP_weeklyplanner.pdf')*
+*[Para descargar la plantilla, haz clic aquí](assets/files/ESP_weeklyplanner.pdf)*
 
 Si te gustaría más ayuda para alcanzar tus metas, te invito a una [sesión introductoria gratis conmigo. Para agendar, haz click aquí](https://calendly.com/vmorah)
