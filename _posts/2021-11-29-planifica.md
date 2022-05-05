@@ -1,7 +1,7 @@
 ---
 title: 'Planifica tu semana | Plan your week'
-description: 'How to achieve your goals so you can take weekends off? 
-			¿Cómo alcanzar tus metas durante la semana y tener tiempo para descansar en el finde?'
+description: 'How to achieve your goals so you can take weekends off? —
+			¿Cómo alcanzar tus metas durante la semana y tener tiempo para descansar?'
 image: '/assets/images/calendarplan.jpg'
 permalink: /2021-11-29-planifica/
 
